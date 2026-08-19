@@ -1,0 +1,28 @@
+{
+    "label": "Natural Element",
+    "type": "dice",
+    "dice": "1d6",
+    "entries": [
+        {
+            "roll": 1,
+            "result": "The Town is in the midst of a vast desert."
+        },
+        {
+            "roll": 2,
+            "result": "The Town is concealed within a dense forest."
+        },
+        {
+            "min": 3,
+            "max": 4,
+            "result": "The Town is in a secluded valley, surrounded by a mountain range."
+        },
+        {
+            "roll": 5,
+            "result": "The Town is located within a canyon, surrounded by towering cliffs."
+        },
+        {
+            "roll": 6,
+            "result": "The Town is situated on a remote island."
+        }
+    ]
+}

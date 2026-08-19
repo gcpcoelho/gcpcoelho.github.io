@@ -1,0 +1,31 @@
+{
+	"label": "Special Contents",
+	"type": "dice",
+	"dice": "1d6",
+	"entries": [
+		{
+			"roll": 1,
+			"result": "You meet someone who has passed away"
+		},
+		{
+			"roll": 2,
+			"result": "Shadows can be seen passing behind the curtains"
+		},
+		{
+			"roll": 3,
+			"result": "The sound of someone singing a beautiful familiar song"
+		},
+		{
+			"roll": 4,
+			"result": "It looks like a waiting room with three leather armchairs, a sculpture, two floor lamps, and a side table with a lamp on top"
+		},
+		{
+			"roll": 5,
+			"result": "Strobe lights"
+		},
+		{
+			"roll": 6,
+			"result": "Roll twice on this table"
+		}
+	]
+}

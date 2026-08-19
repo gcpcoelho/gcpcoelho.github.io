@@ -1,0 +1,244 @@
+{
+	"files": [
+		{
+			"name": "scenario",
+			"description": "Scenario",
+			"order": 1,
+			"files": [
+				{
+					"name": "town",
+					"description": "The Town",
+					"order": 1,
+					"files": [
+						{
+							"name": "natural-element.json",
+							"description": "Town Location",
+							"order": 1
+						},
+						{
+							"name": "town-name-1.json",
+							"order": 2
+						},
+						{
+							"name": "town-name-2.json",
+							"description": "Town Name - Second/Third Part(s)",
+							"order": 3
+						},
+						{
+							"name": "economic-foundation.json",
+							"order": 4
+						},
+						{
+							"name": "town-backstory.json",
+							"order": 5
+						}
+					]
+				},
+				{
+					"name": "case.json",
+					"description": "The Case",
+					"order": 2
+				}
+			]
+		},
+		{
+			"name": "investigator",
+			"description": "The Investigator",
+			"order": 2,
+			"files": [
+				{
+					"name": "archetype.json",
+					"order": 1
+				},
+				{
+					"name": "investigator-secrets.json",
+					"order": 2
+				},
+				{
+					"name": "type-of-secret.json",
+					"order": 3
+				},
+				{
+					"name": "interest-in-case.json",
+					"order": 4
+				}
+			]
+		},
+		{
+			"name": "questions",
+			"description": "Answering Questions",
+			"order": 3,
+			"files": [
+				{
+					"name": "yes-no-questions.json",
+					"description": "Yes/No Questions",
+					"order": 1
+				},
+				{
+					"name": "open-questions",
+					"description": "Open Questions",
+					"order": 2,
+					"files": [
+						{
+							"name": "action.json"
+						},
+						{
+							"name": "theme.json"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "deck",
+			"description": "The Deck",
+			"order": 4,
+			"files": [
+				{
+					"name": "single-events.json",
+					"description": "♦ Single Events",
+					"order": 1
+				},
+				{
+					"name": "anomalies.json",
+					"description": "♣ Anomalies",
+					"order": 2
+				},
+				{
+					"name": "dangers.json",
+					"description": "♠ Dangers",
+					"order": 3
+				},
+				{
+					"name": "clues.json",
+					"description": "♥ Clues",
+					"order": 4
+				}
+			]
+		},
+		{
+			"name": "investigation-progress.json",
+			"order": 5
+		},
+		{
+			"name": "random-event.json",
+			"order": 6
+		},
+		{
+			"name": "ordinary-event.json",
+			"order": 7
+		},
+		{
+			"name": "scene-event.json",
+			"order": 8
+		},
+		{
+			"name": "random-tables",
+			"order": 9,
+			"files": [
+				{
+					"name": "npc",
+					"order": 1,
+					"files": [
+						{
+							"name": "npc-archetype.json",
+							"order": 1
+						},
+						{
+							"name": "initial-attitude.json",
+							"order": 2
+						},
+						{
+							"name": "attitude-modifier.json",
+							"order": 3
+						},
+						{
+							"name": "motivation.json",
+							"order": 4
+						},
+						{
+							"name": "personality-trait.json",
+							"order": 5
+						}
+					]
+				},
+				{
+					"name": "family-names.json",
+					"order": 2
+				},
+				{
+					"name": "female-names.json",
+					"order": 3
+				},
+				{
+					"name": "male-names.json",
+					"order": 4
+				},
+				{
+					"name": "location.json",
+					"order": 5
+				},
+				{
+					"name": "rumor.json",
+					"order": 6
+				},
+				{
+					"name": "dream-scene.json",
+					"order": 7
+				},
+				{
+					"name": "item.json",
+					"order": 8
+				},
+				{
+					"name": "adjective.json",
+					"order": 9
+				},
+				{
+					"name": "weather.json",
+					"order": 10
+				},
+				{
+					"name": "size.json",
+					"order": 11
+				},
+				{
+					"name": "distance.json",
+					"order": 12
+				}
+			]
+		},
+		{
+			"name": "parallel-dimension",
+			"description": "Parallel Dimension",
+			"order": 10,
+			"files": [
+				{
+					"name": "chamber-type.json",
+					"order": 1
+				},
+				{
+					"name": "chamber-exits.json",
+					"order": 2
+				},
+				{
+					"name": "corridor-contents.json",
+					"order": 3
+				},
+				{
+					"name": "room-contents.json",
+					"order": 4
+				},
+				{
+					"name": "special-contents.json",
+					"order": 5
+				}
+			]
+		},
+		{
+			"name": "supernatural-creature.json",
+			"description": "Supernatural Creatures",
+			"order": 11
+		}
+	]
+}

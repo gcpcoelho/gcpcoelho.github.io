@@ -1,0 +1,187 @@
+{
+	"label": "Location",
+	"type": "dice",
+	"dice": "d66",
+	"entries": [
+		{
+			"row": 1,
+			"col": 1,
+			"result": "Abandoned Factory"
+		},
+		{
+			"row": 1,
+			"col": 2,
+			"result": "Abandoned School"
+		},
+		{
+			"row": 1,
+			"col": 3,
+			"result": "Amphitheater"
+		},
+		{
+			"row": 1,
+			"col": 4,
+			"result": "Antique Tram Depot"
+		},
+		{
+			"row": 1,
+			"col": 5,
+			"result": "Artisans Market"
+		},
+		{
+			"row": 1,
+			"col": 6,
+			"result": "Bank"
+		},
+		{
+			"row": 2,
+			"col": 1,
+			"result": "Brothel/Casino"
+		},
+		{
+			"row": 2,
+			"col": 2,
+			"result": "Circle of Stones"
+		},
+		{
+			"row": 2,
+			"col": 3,
+			"result": "City Hall"
+		},
+		{
+			"row": 2,
+			"col": 4,
+			"result": "Coofeeshop"
+		},
+		{
+			"row": 2,
+			"col": 5,
+			"result": "Department Store"
+		},
+		{
+			"row": 2,
+			"col": 6,
+			"result": "Diner"
+		},
+		{
+			"row": 3,
+			"col": 1,
+			"result": "Fishermen’s Wharf Market"
+		},
+		{
+			"row": 3,
+			"col": 2,
+			"result": "Firehouse"
+		},
+		{
+			"row": 3,
+			"col": 3,
+			"result": "Grocery Store"
+		},
+		{
+			"row": 3,
+			"col": 4,
+			"result": "Hotel"
+		},
+		{
+			"row": 3,
+			"col": 5,
+			"result": "Hospital"
+		},
+		{
+			"row": 3,
+			"col": 6,
+			"result": "Hunting Lodge"
+		},
+		{
+			"row": 4,
+			"col": 1,
+			"result": "Main Square"
+		},
+		{
+			"row": 4,
+			"col": 2,
+			"result": "Memorial Center"
+		},
+		{
+			"row": 4,
+			"col": 3,
+			"result": "Observatory"
+		},
+		{
+			"row": 4,
+			"col": 4,
+			"result": "Old Warehouses"
+		},
+		{
+			"row": 4,
+			"col": 5,
+			"result": "Petroglyphs Cave"
+		},
+		{
+			"row": 4,
+			"col": 6,
+			"result": "Police Department"
+		},
+		{
+			"row": 5,
+			"col": 1,
+			"result": "Restaurant"
+		},
+		{
+			"row": 5,
+			"col": 2,
+			"result": "Residential District"
+		},
+		{
+			"row": 5,
+			"col": 3,
+			"result": "Riverfront Boardwalk"
+		},
+		{
+			"row": 5,
+			"col": 4,
+			"result": "Roadhouse Pub"
+		},
+		{
+			"row": 5,
+			"col": 5,
+			"result": "Sawmill/Factory"
+		},
+		{
+			"row": 5,
+			"col": 6,
+			"result": "Bookstore"
+		},
+		{
+			"row": 6,
+			"col": 1,
+			"result": "School"
+		},
+		{
+			"row": 6,
+			"col": 2,
+			"result": "Trailer Park"
+		},
+		{
+			"row": 6,
+			"col": 3,
+			"result": "Tunnels"
+		},
+		{
+			"row": 6,
+			"col": 4,
+			"result": "Vintage Arcade"
+		},
+		{
+			"row": 6,
+			"col": 5,
+			"result": "Cemetery"
+		},
+		{
+			"row": 6,
+			"col": 6,
+			"result": "Outskirts"
+		}
+	]
+}

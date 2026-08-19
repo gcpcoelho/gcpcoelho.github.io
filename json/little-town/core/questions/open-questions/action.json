@@ -1,0 +1,187 @@
+{
+    "label": "Action",
+    "type": "dice",
+    "dice": "d66",
+    "entries": [
+        {
+            "row": 1,
+            "col": 1,
+            "result": "Attempt"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "result": "Corrupt"
+        },
+        {
+            "row": 1,
+            "col": 3,
+            "result": "Execute"
+        },
+        {
+            "row": 1,
+            "col": 4,
+            "result": "Increase"
+        },
+        {
+            "row": 1,
+            "col": 5,
+            "result": "Remove"
+        },
+        {
+            "row": 1,
+            "col": 6,
+            "result": "Suppose"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "result": "Betray"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "result": "Decrease"
+        },
+        {
+            "row": 2,
+            "col": 3,
+            "result": "Facilitate"
+        },
+        {
+            "row": 2,
+            "col": 4,
+            "result": "Leave"
+        },
+        {
+            "row": 2,
+            "col": 5,
+            "result": "Request"
+        },
+        {
+            "row": 2,
+            "col": 6,
+            "result": "Take"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "result": "Cause"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "result": "Defeat"
+        },
+        {
+            "row": 3,
+            "col": 3,
+            "result": "Find"
+        },
+        {
+            "row": 3,
+            "col": 4,
+            "result": "Overwhelm"
+        },
+        {
+            "row": 3,
+            "col": 5,
+            "result": "Resist"
+        },
+        {
+            "row": 3,
+            "col": 6,
+            "result": "Threaten"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "result": "Control"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "result": "Deny"
+        },
+        {
+            "row": 4,
+            "col": 3,
+            "result": "Follow"
+        },
+        {
+            "row": 4,
+            "col": 4,
+            "result": "Point"
+        },
+        {
+            "row": 4,
+            "col": 5,
+            "result": "Reveal"
+        },
+        {
+            "row": 4,
+            "col": 6,
+            "result": "Transform"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "result": "Count"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "result": "Destroy"
+        },
+        {
+            "row": 5,
+            "col": 3,
+            "result": "Hide"
+        },
+        {
+            "row": 5,
+            "col": 4,
+            "result": "Prepare"
+        },
+        {
+            "row": 5,
+            "col": 5,
+            "result": "Strengthen"
+        },
+        {
+            "row": 5,
+            "col": 6,
+            "result": "Trick"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "result": "Create"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "result": "Eliminate"
+        },
+        {
+            "row": 6,
+            "col": 3,
+            "result": "Hit"
+        },
+        {
+            "row": 6,
+            "col": 4,
+            "result": "Recover"
+        },
+        {
+            "row": 6,
+            "col": 5,
+            "result": "Stop"
+        },
+        {
+            "row": 6,
+            "col": 6,
+            "result": "Weaken"
+        }
+    ]
+}

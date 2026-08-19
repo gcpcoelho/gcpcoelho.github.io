@@ -1,0 +1,32 @@
+{
+  "label": "Chamber Exit",
+  "type": "dice",
+  "dice": "1d6",
+  "info": "Whenever the Investigator reaches a new Room, roll three times on the table below to determine the available Exits; if they reach a Corridor instead, roll twice.",
+  "entries": [
+    {
+      "roll": 1,
+      "result": "No Exits"
+    },
+    {
+      "roll": 2,
+      "result": "North (Front)"
+    },
+    {
+      "roll": 3,
+      "result": "East (Right)"
+    },
+    {
+      "roll": 4,
+      "result": "South (Back)"
+    },
+    {
+      "roll": 5,
+      "result": "West (Left)"
+    },
+    {
+      "roll": 6,
+      "result": "No Exits"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+	"label": "Item",
+	"type": "dice",
+	"dice": "d66",
+	"entries": [
+		{
+			"row": 1,
+			"col": 1,
+			"result": "Apple"
+		},
+		{
+			"row": 1,
+			"col": 2,
+			"result": "Creamed Corn"
+		},
+		{
+			"row": 1,
+			"col": 3,
+			"result": "Glasses"
+		},
+		{
+			"row": 1,
+			"col": 4,
+			"result": "Lipstick"
+		},
+		{
+			"row": 1,
+			"col": 5,
+			"result": "Recorder"
+		},
+		{
+			"row": 1,
+			"col": 6,
+			"result": "Statuette"
+		},
+		{
+			"row": 2,
+			"col": 1,
+			"result": "Backpack"
+		},
+		{
+			"row": 2,
+			"col": 2,
+			"result": "Donut"
+		},
+		{
+			"row": 2,
+			"col": 3,
+			"result": "Gun"
+		},
+		{
+			"row": 2,
+			"col": 4,
+			"result": "Lock"
+		},
+		{
+			"row": 2,
+			"col": 5,
+			"result": "Remedy"
+		},
+		{
+			"row": 2,
+			"col": 6,
+			"result": "Stone"
+		},
+		{
+			"row": 3,
+			"col": 1,
+			"result": "Bird Cage"
+		},
+		{
+			"row": 3,
+			"col": 2,
+			"result": "Drugs"
+		},
+		{
+			"row": 3,
+			"col": 3,
+			"result": "Handful of Earth"
+		},
+		{
+			"row": 3,
+			"col": 4,
+			"result": "Mask"
+		},
+		{
+			"row": 3,
+			"col": 5,
+			"result": "Rope"
+		},
+		{
+			"row": 3,
+			"col": 6,
+			"result": "Telephone"
+		},
+		{
+			"row": 4,
+			"col": 1,
+			"result": "Bubblegum"
+		},
+		{
+			"row": 4,
+			"col": 2,
+			"result": "Eye-Patch"
+		},
+		{
+			"row": 4,
+			"col": 3,
+			"result": "Knife"
+		},
+		{
+			"row": 4,
+			"col": 4,
+			"result": "Money"
+		},
+		{
+			"row": 4,
+			"col": 5,
+			"result": "Scarf"
+		},
+		{
+			"row": 4,
+			"col": 6,
+			"result": "Tire"
+		},
+		{
+			"row": 5,
+			"col": 1,
+			"result": "Cherry Pie"
+		},
+		{
+			"row": 5,
+			"col": 2,
+			"result": "Flower"
+		},
+		{
+			"row": 5,
+			"col": 3,
+			"result": "Lantern"
+		},
+		{
+			"row": 5,
+			"col": 4,
+			"result": "Painting"
+		},
+		{
+			"row": 5,
+			"col": 5,
+			"result": "Shoe"
+		},
+		{
+			"row": 5,
+			"col": 6,
+			"result": "Train Ticket"
+		},
+		{
+			"row": 6,
+			"col": 1,
+			"result": "Coffee Mug"
+		},
+		{
+			"row": 6,
+			"col": 2,
+			"result": "Fruit"
+		},
+		{
+			"row": 6,
+			"col": 3,
+			"result": "Leaf"
+		},
+		{
+			"row": 6,
+			"col": 4,
+			"result": "Perfume"
+		},
+		{
+			"row": 6,
+			"col": 5,
+			"result": "Shovel"
+		},
+		{
+			"row": 6,
+			"col": 6,
+			"result": "Whistle"
+		}
+	]
+}

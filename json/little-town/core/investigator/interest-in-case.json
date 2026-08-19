@@ -1,0 +1,51 @@
+{
+    "label": "Interest in the Case",
+    "type": "dice",
+    "dice": "2d6",
+    "entries": [
+        {
+            "roll": 2,
+            "result": "Solving the Case will expose a deep-rooted conspiracy."
+        },
+        {
+            "roll": 3,
+            "result": "Solving the Case will bring closure to a past trauma."
+        },
+        {
+            "roll": 4,
+            "result": "The Investigator is being blackmailed into solving the Case."
+        },
+        {
+            "roll": 5,
+            "result": "Someone will be wrongfully sent to jail."
+        },
+        {
+            "roll": 6,
+            "result": "The responsible will become more powerful."
+        },
+        {
+            "roll": 7,
+            "result": "It will happen again."
+        },
+        {
+            "roll": 8,
+            "result": "The responsible will flee."
+        },
+        {
+            "roll": 9,
+            "result": "An innocent person’s life will be at risk."
+        },
+        {
+            "roll": 10,
+            "result": "The Case is tied to the Investigator’s personal vendetta."
+        },
+        {
+            "roll": 11,
+            "result": "The Case is connected to the Investigator’s past."
+        },
+        {
+            "roll": 12,
+            "result": "The Investigator believes the Case holds the key to understanding a recurring dream."
+        }
+    ]
+}

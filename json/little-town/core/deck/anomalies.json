@@ -1,0 +1,59 @@
+{
+    "label": "Anomaly",
+    "type": "card",
+    "suit": "clubs",
+    "entries": [
+        {
+            "value": "A",
+            "result": "You find a picture hanging on the wall. As you look at it, you notice that it depicts the exact room you are in, including your image looking at the picture itself. You look around to seek details, and when you return your attention to the picture, it’s showing another scene."
+        },
+        {
+            "value": "2",
+            "result": "You find yourself alone at the current Location, but it is decaying and/or destroyed. When you walk through a door, everything is back to normal."
+        },
+        {
+            "value": "3",
+            "result": "You hear a strangely familiar music. It starts softly and can now be heard very clearly. When you pause to pay attention to the lyrics and/or melody, it stops immediately. When questioning people around you, no one was able to hear it."
+        },
+        {
+            "value": "4",
+            "result": "You see at a glance someone who has been dead for years. When you look again, you can’t find anyone where they were."
+        },
+        {
+            "value": "5",
+            "result": "You bump into an acquaintance, but they show no sign of knowing you. Shortly after, the scene repeats itself, but the person acts normally."
+        },
+        {
+            "value": "6",
+            "result": "Someone passes by you and greets you with a smile. Immediately afterward, the scene repeats itself in an identical way."
+        },
+        {
+            "value": "7",
+            "result": "You encounter a medium or large-sized animal at the current Location. People go on acting normally, as if it wasn’t there. Then it leaves quietly."
+        },
+        {
+            "value": "8",
+            "result": "You hear someone screaming for help and calling your name. When you look around, you find yourself alone."
+        },
+        {
+            "value": "9",
+            "result": "You encounter a dear one. When you approach, they run away in terror at the sight of you. Shortly after, the scene repeats itself, but the person acts normally."
+        },
+        {
+            "value": "10",
+            "result": "You smell something in the air and are hit by a strong and vivid memory of your childhood in the 1950s, but you weren’t even born then."
+        },
+        {
+            "value": "J",
+            "result": "A stranger shows up and starts to talk to you in a cryptic way. No one else at the Location saw them. Roll an Action and/or a Theme for the cryptic message."
+        },
+        {
+            "value": "Q",
+            "result": "You encounter a deceased person. They approach and whisper something in your ear. No one else at the Scene saw them. Roll ‘Whispers from Beyond’ to find out what was whispered."
+        },
+        {
+            "value": "K",
+            "result": "You find yourself alone in a place where, a moment before, there were other people. A stranger approaches you and hands you an object without saying anything. Roll 1d6: if the number is between 1 and 5, roll an Item; if the number is 6, draw a card from the ♥ Clues pile."
+        }
+    ]
+}

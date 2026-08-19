@@ -1,0 +1,59 @@
+{
+    "label": "Clue",
+    "type": "card",
+    "suit": "hearts",
+    "entries": [
+        {
+            "value": "A",
+            "result": "No Clues found. Return this card to the pile and shuffle."
+        },
+        {
+            "value": "2",
+            "result": "A: A tiny piece of paper with a typewritten letter. /  B: Markings (e.g., symbols or sigils etched on walls)."
+        },
+        {
+            "value": "3",
+            "result": "A: A personal item (e.g., a signet). /  B: A personal item (e.g., a necklace)."
+        },
+        {
+            "value": "4",
+            "result": "A: A magazine clipping. /  B: An old newspaper article."
+        },
+        {
+            "value": "5",
+            "result": "A: Traces (e.g., footprints). /  B: Traces (e.g., tire tracks)."
+        },
+        {
+            "value": "6",
+            "result": "A: A peculiar odor (e.g., burnt engine oil, ozone, or sulfur). /  B: Unexpected readings (e.g., electromagnetic fluctuations)."
+        },
+        {
+            "value": "7",
+            "result": "A: A key. /  B: A worn map. /  C: The blueprint of a building."
+        },
+        {
+            "value": "8",
+            "result": "A: Stained clothes (e.g., grease or blood). /  B: A pair of gloves with traces of a viscous material. /  C: A weapon."
+        },
+        {
+            "value": "9",
+            "result": "A: Residues (e.g., drugs). /  B: Residues (e.g., ashes)."
+        },
+        {
+            "value": "10",
+            "result": "A: A regular object (e.g., a poker chip). /  B: A regular object (e.g., a domino)."
+        },
+        {
+            "value": "J",
+            "result": "A: Recordings (e.g., cassette tapes). /  B: Recordings (e.g., VHS tapes)."
+        },
+        {
+            "value": "Q",
+            "result": "A: A weathered note. /  B: A crumpled letter."
+        },
+        {
+            "value": "K",
+            "result": "A: A diary. /  B: A secret diary."
+        }
+    ]
+}

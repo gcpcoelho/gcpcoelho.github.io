@@ -1,0 +1,39 @@
+{
+    "label": "Investigation Progress",
+    "type": "dice",
+    "dice": "2d6",
+    "entries": [
+        {
+            "roll": 2,
+            "result": "Draw a card from the ♠ Dangers pile."
+        },
+        {
+            "min": 3,
+            "max": 4,
+            "result": "You meet a Friendly NPC who may know something about the Case. Roll ‘Interrogate’."
+        },
+        {
+            "min": 5,
+            "max": 6,
+            "result": "You notice someone discussing the Case. Roll ‘Snooping Around’ to try to eavesdrop."
+        },
+        {
+            "roll": 7,
+            "result": "Nothing favors the Investigation at this Location."
+        },
+        {
+            "min": 8,
+            "max": 9,
+            "result": "There might be a Clue in this Location. Roll ‘Investigate’."
+        },
+        {
+            "min": 10,
+            "max": 11,
+            "result": "You meet an Unfriendly NPC that may know something about the Case. Roll ‘Interrogate’."
+        },
+        {
+            "roll": 12,
+            "result": "You see a suspect at the Location. Roll ‘Interrogate’, or if you need to follow them, roll ‘On Someone’s Tail’."
+        }
+    ]
+}

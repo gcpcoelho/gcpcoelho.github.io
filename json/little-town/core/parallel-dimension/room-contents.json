@@ -1,0 +1,32 @@
+{
+  "label": "Room Contents",
+  "type": "dice",
+  "dice": "1d6",
+  "info": "If the Room reached has one or more Exits, roll on the table below to define its contents",
+  "entries": [
+    {
+      "roll": 1,
+      "result": "Empty"
+    },
+    {
+      "roll": 2,
+      "result": "Special Contents"
+    },
+    {
+      "roll": 3,
+      "result": "Empty"
+    },
+    {
+      "roll": 4,
+      "result": "Special Contents"
+    },
+    {
+      "roll": 5,
+      "result": "Empty"
+    },
+    {
+      "roll": 6,
+      "result": "Doppelgänger. Roll ‘Face Doppelgänger’. If you succeed, you will get out of the Parallel Dimension, but the Time Limit will be set to 11; otherwise, you will be transported again to the first Corridor in the Parallel Dimension"
+    }
+  ]
+}

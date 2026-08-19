@@ -1,0 +1,21 @@
+{
+    "label": "Scene Event",
+    "type": "dice",
+    "dice": "1d6",
+    "modifier": "Time Limit",
+    "entries": [
+        {
+            "max": 8,
+            "result": "Roll on the Random Event table."
+        },
+        {
+            "min": 9,
+            "max": 12,
+            "result": "Roll on the Investigation Progress table."
+        },
+        {
+            "min": 13,
+            "result": "Draw a card from the ♠ Dangers pile."
+        }
+    ]
+}

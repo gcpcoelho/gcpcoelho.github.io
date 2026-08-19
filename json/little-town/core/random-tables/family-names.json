@@ -1,0 +1,187 @@
+{
+    "label": "Family Name",
+    "type": "dice",
+    "dice": "d66",
+    "entries": [
+        {
+            "row": 1,
+            "col": 1,
+            "result": "Anderson"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "result": "Davis"
+        },
+        {
+            "row": 1,
+            "col": 3,
+            "result": "Holloway"
+        },
+        {
+            "row": 1,
+            "col": 4,
+            "result": "Mills"
+        },
+        {
+            "row": 1,
+            "col": 5,
+            "result": "Reynolds"
+        },
+        {
+            "row": 1,
+            "col": 6,
+            "result": "Talbot"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "result": "Bennet"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "result": "Edwards"
+        },
+        {
+            "row": 2,
+            "col": 3,
+            "result": "Hayward"
+        },
+        {
+            "row": 2,
+            "col": 4,
+            "result": "Mitchell"
+        },
+        {
+            "row": 2,
+            "col": 5,
+            "result": "Richards"
+        },
+        {
+            "row": 2,
+            "col": 6,
+            "result": "Thompson"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "result": "Brooks"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "result": "Fletcher"
+        },
+        {
+            "row": 3,
+            "col": 3,
+            "result": "Jackson"
+        },
+        {
+            "row": 3,
+            "col": 4,
+            "result": "Monroe"
+        },
+        {
+            "row": 3,
+            "col": 5,
+            "result": "Robertson"
+        },
+        {
+            "row": 3,
+            "col": 6,
+            "result": "Turner"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "result": "Burns"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "result": "Foster"
+        },
+        {
+            "row": 4,
+            "col": 3,
+            "result": "Johnson"
+        },
+        {
+            "row": 4,
+            "col": 4,
+            "result": "Moore"
+        },
+        {
+            "row": 4,
+            "col": 5,
+            "result": "Rogers"
+        },
+        {
+            "row": 4,
+            "col": 6,
+            "result": "Welsh"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "result": "Caldwell"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "result": "Hayes"
+        },
+        {
+            "row": 5,
+            "col": 3,
+            "result": "Lee"
+        },
+        {
+            "row": 5,
+            "col": 4,
+            "result": "Morris"
+        },
+        {
+            "row": 5,
+            "col": 5,
+            "result": "Sinclair"
+        },
+        {
+            "row": 5,
+            "col": 6,
+            "result": "Williams"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "result": "Carter"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "result": "Harper"
+        },
+        {
+            "row": 6,
+            "col": 3,
+            "result": "Lynn"
+        },
+        {
+            "row": 6,
+            "col": 4,
+            "result": "Murphy"
+        },
+        {
+            "row": 6,
+            "col": 5,
+            "result": "Simmons"
+        },
+        {
+            "row": 6,
+            "col": 6,
+            "result": "Wilson"
+        }
+    ]
+}

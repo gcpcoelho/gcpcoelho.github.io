@@ -1,0 +1,51 @@
+{
+    "label": "Archetype",
+    "type": "dice",
+    "dice": "2d6",
+    "entries": [
+        {
+            "roll": 2,
+            "result": "Federal Agent: an exemplary federal agent who employs unconventional investigative techniques. Items: gun, badge, recorder, and flashlight."
+        },
+        {
+            "roll": 3,
+            "result": "Computer Hacker: a tech-savvy individual well-versed in infiltrating secure systems, retrieving classified information, and uncovering digital secrets. Items: laptop, signal jammer, and a set of electronic lock-bypass devices."
+        },
+        {
+            "roll": 4,
+            "result": "Vigilante: a member of a secret society that fights the evil lurking around the Town. Items: balaclava, motorcycle, leather jacket, and sunglasses."
+        },
+        {
+            "roll": 5,
+            "result": "Doctor: an ordinary doctor who, in a single day, can conduct a baby delivery and later act as a coroner. Items: pager, medicine samples, scalpel, and stethoscope."
+        },
+        {
+            "roll": 6,
+            "result": "Paper Deliverer: they’ve seen some strange things on their paper route, and they know this Town is the center of weirdness for the entire planet. Items: bicycle, walkie-talkie, flashlight, and a Swiss Army knife."
+        },
+        {
+            "roll": 7,
+            "result": "Amateur Sleuth: a curious and resourceful individual, driven by a passion for solving mysteries. Items: magnifying glass, notepad, pocket flashlight, and a vintage detective novel."
+        },
+        {
+            "roll": 8,
+            "result": "Student: an ordinary teenager who, in their spare time, may be investigating the murder of a classmate. Items: backpack, notebook, pen, and a Walkman."
+        },
+        {
+            "roll": 9,
+            "result": "Police Officer: a typical law enforcement officer who, in their spare time, acts as a vigilante. Items: gun, badge, pair of handcuffs, and balaclava."
+        },
+        {
+            "roll": 10,
+            "result": "Conspiracy Theorist: an eccentric individual who has spent years researching and collecting information about government cover-ups, secret organizations, and hidden agendas. Items: notebook, survival manual, and a tin foil hat."
+        },
+        {
+            "roll": 11,
+            "result": "Paranormal Investigator: a seasoned investigator specialized in supernatural and unexplained phenomena. Items: electromagnetic field detectors, audio recording devices, and infrared cameras."
+        },
+        {
+            "roll": 12,
+            "result": "Military: a military officer who oversees a top-secret facility dedicated to the study of paranormal activity. Items: access keycards, secure communication device, and a briefcase with hidden compartments."
+        }
+    ]
+}

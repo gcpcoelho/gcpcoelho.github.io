@@ -1,0 +1,28 @@
+{
+  "label": "Distance",
+  "type": "dice",
+  "dice": "1d6",
+  "entries": [
+    {
+      "roll": 1,
+      "result": "Within reach"
+    },
+    {
+      "roll": 2,
+      "result": "Close"
+    },
+    {
+      "min": 3,
+      "max": 4,
+      "result": "At a medium distance"
+    },
+    {
+      "roll": 5,
+      "result": "Far"
+    },
+    {
+      "roll": 6,
+      "result": "Too far"
+    }
+  ]
+}

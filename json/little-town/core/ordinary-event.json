@@ -1,0 +1,31 @@
+{
+    "label": "Ordinary Event",
+    "type": "dice",
+    "dice": "1d6",
+    "entries": [
+        {
+            "roll": 1,
+            "result": "A party."
+        },
+        {
+            "roll": 2,
+            "result": "Kids playing."
+        },
+        {
+            "roll": 3,
+            "result": "Someone sweeping the floor."
+        },
+        {
+            "roll": 4,
+            "result": "A police car drives by."
+        },
+        {
+            "roll": 5,
+            "result": "A small animal appears."
+        },
+        {
+            "roll": 6,
+            "result": "Someone passes by running and screaming."
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "label": "Random Event",
+    "type": "dice",
+    "dice": "2d6",
+    "entries": [
+        {
+            "roll": 2,
+            "result": "Draw a card from the ♠ Dangers pile."
+        },
+        {
+            "roll": 3,
+            "result": "One of your Secrets is revealed. Roll ‘Reveal a Secret’."
+        },
+        {
+            "roll": 4,
+            "result": "A negative event occurs. Roll an Action + Theme pair."
+        },
+        {
+            "roll": 5,
+            "result": "A Hostile NPC is introduced."
+        },
+        {
+            "roll": 6,
+            "result": "Draw a card from the ♣ Anomalies pile."
+        },
+        {
+            "roll": 7,
+            "result": "A Neutral NPC is introduced."
+        },
+        {
+            "roll": 8,
+            "result": "Draw a card from the ♦ Single Events pile."
+        },
+        {
+            "roll": 9,
+            "result": "A Helpful NPC is introduced."
+        },
+        {
+            "roll": 10,
+            "result": "A neutral event occurs. Roll an Ordinary Event or an Action + Theme pair."
+        },
+        {
+            "roll": 11,
+            "result": "You remember a Dream. Roll ‘Remembering a Dream’."
+        },
+        {
+            "roll": 12,
+            "result": "A positive event occurs. Roll an Action + Theme pair."
+        }
+    ]
+}

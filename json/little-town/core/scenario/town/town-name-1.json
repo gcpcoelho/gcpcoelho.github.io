@@ -1,0 +1,187 @@
+{
+    "label": "Town Name - First Part",
+    "type": "dice",
+    "dice": "d66",
+    "entries": [
+        {
+            "row": 1,
+            "col": 1,
+            "result": "Amber"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "result": "Cypress"
+        },
+        {
+            "row": 1,
+            "col": 3,
+            "result": "Golden"
+        },
+        {
+            "row": 1,
+            "col": 4,
+            "result": "Night"
+        },
+        {
+            "row": 1,
+            "col": 5,
+            "result": "Rust"
+        },
+        {
+            "row": 1,
+            "col": 6,
+            "result": "Twin"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "result": "Azure"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "result": "Deer"
+        },
+        {
+            "row": 2,
+            "col": 3,
+            "result": "Green"
+        },
+        {
+            "row": 2,
+            "col": 4,
+            "result": "North"
+        },
+        {
+            "row": 2,
+            "col": 5,
+            "result": "Sapphire"
+        },
+        {
+            "row": 2,
+            "col": 6,
+            "result": "Velvet"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "result": "Bear"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "result": "Diamond"
+        },
+        {
+            "row": 3,
+            "col": 3,
+            "result": "Ivory"
+        },
+        {
+            "row": 3,
+            "col": 4,
+            "result": "Onyx"
+        },
+        {
+            "row": 3,
+            "col": 5,
+            "result": "Serpent"
+        },
+        {
+            "row": 3,
+            "col": 6,
+            "result": "Virgin"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "result": "Bright"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "result": "Eagle"
+        },
+        {
+            "row": 4,
+            "col": 3,
+            "result": "Little"
+        },
+        {
+            "row": 4,
+            "col": 4,
+            "result": "Pine"
+        },
+        {
+            "row": 4,
+            "col": 5,
+            "result": "Silent"
+        },
+        {
+            "row": 4,
+            "col": 6,
+            "result": "West"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "result": "Crimson"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "result": "East"
+        },
+        {
+            "row": 5,
+            "col": 3,
+            "result": "Middle"
+        },
+        {
+            "row": 5,
+            "col": 4,
+            "result": "Raven"
+        },
+        {
+            "row": 5,
+            "col": 5,
+            "result": "Silver"
+        },
+        {
+            "row": 5,
+            "col": 6,
+            "result": "Wild"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "result": "Crystal"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "result": "Gilded"
+        },
+        {
+            "row": 6,
+            "col": 3,
+            "result": "Misty"
+        },
+        {
+            "row": 6,
+            "col": 4,
+            "result": "Red"
+        },
+        {
+            "row": 6,
+            "col": 5,
+            "result": "South"
+        },
+        {
+            "row": 6,
+            "col": 6,
+            "result": "Willow"
+        }
+    ]
+}

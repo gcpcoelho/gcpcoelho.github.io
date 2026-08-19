@@ -1,0 +1,187 @@
+{
+	"label": "Female Names",
+	"type": "dice",
+	"dice": "d66",
+	"entries": [
+		{
+			"row": 1,
+			"col": 1,
+			"result": "Abigail"
+		},
+		{
+			"row": 1,
+			"col": 2,
+			"result": "Daisy"
+		},
+		{
+			"row": 1,
+			"col": 3,
+			"result": "Emma"
+		},
+		{
+			"row": 1,
+			"col": 4,
+			"result": "Laura"
+		},
+		{
+			"row": 1,
+			"col": 5,
+			"result": "Mary"
+		},
+		{
+			"row": 1,
+			"col": 6,
+			"result": "Sheryl"
+		},
+		{
+			"row": 2,
+			"col": 1,
+			"result": "Amelie"
+		},
+		{
+			"row": 2,
+			"col": 2,
+			"result": "Denise"
+		},
+		{
+			"row": 2,
+			"col": 3,
+			"result": "Grace"
+		},
+		{
+			"row": 2,
+			"col": 4,
+			"result": "Lily"
+		},
+		{
+			"row": 2,
+			"col": 5,
+			"result": "Monica"
+		},
+		{
+			"row": 2,
+			"col": 6,
+			"result": "Susan"
+		},
+		{
+			"row": 3,
+			"col": 1,
+			"result": "Annette"
+		},
+		{
+			"row": 3,
+			"col": 2,
+			"result": "Diane"
+		},
+		{
+			"row": 3,
+			"col": 3,
+			"result": "Joan"
+		},
+		{
+			"row": 3,
+			"col": 4,
+			"result": "Lucy"
+		},
+		{
+			"row": 3,
+			"col": 5,
+			"result": "Norma"
+		},
+		{
+			"row": 3,
+			"col": 6,
+			"result": "Teresa"
+		},
+		{
+			"row": 4,
+			"col": 1,
+			"result": "Annie"
+		},
+		{
+			"row": 4,
+			"col": 2,
+			"result": "Donna"
+		},
+		{
+			"row": 4,
+			"col": 3,
+			"result": "Jocelyn"
+		},
+		{
+			"row": 4,
+			"col": 4,
+			"result": "Madeleine"
+		},
+		{
+			"row": 4,
+			"col": 5,
+			"result": "Olivia"
+		},
+		{
+			"row": 4,
+			"col": 6,
+			"result": "Veronica"
+		},
+		{
+			"row": 5,
+			"col": 1,
+			"result": "Audrey"
+		},
+		{
+			"row": 5,
+			"col": 2,
+			"result": "Eleanor"
+		},
+		{
+			"row": 5,
+			"col": 3,
+			"result": "Jolene"
+		},
+		{
+			"row": 5,
+			"col": 4,
+			"result": "Margaret"
+		},
+		{
+			"row": 5,
+			"col": 5,
+			"result": "Sarah"
+		},
+		{
+			"row": 5,
+			"col": 6,
+			"result": "Violet"
+		},
+		{
+			"row": 6,
+			"col": 1,
+			"result": "Charlotte"
+		},
+		{
+			"row": 6,
+			"col": 2,
+			"result": "Elizabeth"
+		},
+		{
+			"row": 6,
+			"col": 3,
+			"result": "Kimberly"
+		},
+		{
+			"row": 6,
+			"col": 4,
+			"result": "Marie"
+		},
+		{
+			"row": 6,
+			"col": 5,
+			"result": "Shelly"
+		},
+		{
+			"row": 6,
+			"col": 6,
+			"result": "Vivian"
+		}
+	]
+}

@@ -1,0 +1,71 @@
+{
+    "label": "Case",
+    "type": "dice",
+    "dice": "3d6",
+    "entries": [
+        {
+            "roll": 3,
+            "result": "Suddenly, the townsfolk became extremely aggressive and violent."
+        },
+        {
+            "roll": 4,
+            "result": "You have no recollection of how or why you ended up in this Town."
+        },
+        {
+            "roll": 5,
+            "result": "A series of unexplained accidents is plaguing the townsfolk."
+        },
+        {
+            "roll": 6,
+            "result": "An important relic has gone missing."
+        },
+        {
+            "roll": 7,
+            "result": "An explosion has occurred."
+        },
+        {
+            "roll": 8,
+            "result": "One person has disappeared."
+        },
+        {
+            "roll": 9,
+            "result": "A person in shock and injured was found wandering on the edge of Town."
+        },
+        {
+            "roll": 10,
+            "result": "A body was discovered by the riverbanks, wrapped in plastic."
+        },
+        {
+            "roll": 11,
+            "result": "One person was murdered."
+        },
+        {
+            "roll": 12,
+            "result": "An unknown person with amnesia and wearing strange clothes has appeared in Town."
+        },
+        {
+            "roll": 13,
+            "result": "One person was kidnapped."
+        },
+        {
+            "roll": 14,
+            "result": "A Location was set on fire."
+        },
+        {
+            "roll": 15,
+            "result": "A valuable item was stolen."
+        },
+        {
+            "roll": 16,
+            "result": "Mysterious power outages have been occurring at irregular intervals."
+        },
+        {
+            "roll": 17,
+            "result": "You have no recollection of who you are and why you are in this Town."
+        },
+        {
+            "roll": 18,
+            "result": "Suddenly, the townsfolk started getting sick or dying."
+        }
+    ]
+}

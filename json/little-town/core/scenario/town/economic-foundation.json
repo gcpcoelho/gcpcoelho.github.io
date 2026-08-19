@@ -1,0 +1,51 @@
+{
+    "label": "Economic Foundation",
+    "type": "dice",
+    "dice": "2d6",
+    "entries": [
+        {
+            "roll": 2,
+            "result": "Quarrying"
+        },
+        {
+            "roll": 3,
+            "result": "Manufacturing"
+        },
+        {
+            "roll": 4,
+            "result": "Dairy Farming"
+        },
+        {
+            "roll": 5,
+            "result": "Vineyards and Winemaking"
+        },
+        {
+            "roll": 6,
+            "result": "Logging"
+        },
+        {
+            "roll": 7,
+            "result": "Tourism"
+        },
+        {
+            "roll": 8,
+            "result": "Mining"
+        },
+        {
+            "roll": 9,
+            "result": "Agriculture"
+        },
+        {
+            "roll": 10,
+            "result": "Fishing"
+        },
+        {
+            "roll": 11,
+            "result": "Textile Production"
+        },
+        {
+            "roll": 12,
+            "result": "Renewable Energy Production"
+        }
+    ]
+}

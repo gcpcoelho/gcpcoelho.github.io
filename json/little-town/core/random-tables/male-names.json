@@ -1,0 +1,187 @@
+{
+	"label": "Male Name",
+	"type": "dice",
+	"dice": "d66",
+	"entries": [
+		{
+			"row": 1,
+			"col": 1,
+			"result": "Alan"
+		},
+		{
+			"row": 1,
+			"col": 2,
+			"result": "Darren"
+		},
+		{
+			"row": 1,
+			"col": 3,
+			"result": "Eric"
+		},
+		{
+			"row": 1,
+			"col": 4,
+			"result": "James"
+		},
+		{
+			"row": 1,
+			"col": 5,
+			"result": "Marty"
+		},
+		{
+			"row": 1,
+			"col": 6,
+			"result": "Samuel"
+		},
+		{
+			"row": 2,
+			"col": 1,
+			"result": "Albert"
+		},
+		{
+			"row": 2,
+			"col": 2,
+			"result": "David"
+		},
+		{
+			"row": 2,
+			"col": 3,
+			"result": "Frank"
+		},
+		{
+			"row": 2,
+			"col": 4,
+			"result": "Jerry"
+		},
+		{
+			"row": 2,
+			"col": 5,
+			"result": "Michael"
+		},
+		{
+			"row": 2,
+			"col": 6,
+			"result": "Steve"
+		},
+		{
+			"row": 3,
+			"col": 1,
+			"result": "Alfred"
+		},
+		{
+			"row": 3,
+			"col": 2,
+			"result": "Denis"
+		},
+		{
+			"row": 3,
+			"col": 3,
+			"result": "George"
+		},
+		{
+			"row": 3,
+			"col": 4,
+			"result": "John"
+		},
+		{
+			"row": 3,
+			"col": 5,
+			"result": "Miles"
+		},
+		{
+			"row": 3,
+			"col": 6,
+			"result": "Tommy"
+		},
+		{
+			"row": 4,
+			"col": 1,
+			"result": "Andrew"
+		},
+		{
+			"row": 4,
+			"col": 2,
+			"result": "Douglas"
+		},
+		{
+			"row": 4,
+			"col": 3,
+			"result": "Harry"
+		},
+		{
+			"row": 4,
+			"col": 4,
+			"result": "Kyle"
+		},
+		{
+			"row": 4,
+			"col": 5,
+			"result": "Philip"
+		},
+		{
+			"row": 4,
+			"col": 6,
+			"result": "Warren"
+		},
+		{
+			"row": 5,
+			"col": 1,
+			"result": "Carl"
+		},
+		{
+			"row": 5,
+			"col": 2,
+			"result": "Dwayne"
+		},
+		{
+			"row": 5,
+			"col": 3,
+			"result": "Henry"
+		},
+		{
+			"row": 5,
+			"col": 4,
+			"result": "Leo"
+		},
+		{
+			"row": 5,
+			"col": 5,
+			"result": "Richard"
+		},
+		{
+			"row": 5,
+			"col": 6,
+			"result": "Wayne"
+		},
+		{
+			"row": 6,
+			"col": 1,
+			"result": "Dale"
+		},
+		{
+			"row": 6,
+			"col": 2,
+			"result": "Edward"
+		},
+		{
+			"row": 6,
+			"col": 3,
+			"result": "Jack"
+		},
+		{
+			"row": 6,
+			"col": 4,
+			"result": "Mark"
+		},
+		{
+			"row": 6,
+			"col": 5,
+			"result": "Robert"
+		},
+		{
+			"row": 6,
+			"col": 6,
+			"result": "William"
+		}
+	]
+}

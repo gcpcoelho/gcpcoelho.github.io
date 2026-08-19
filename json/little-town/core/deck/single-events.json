@@ -1,0 +1,59 @@
+{
+    "label": "Single Event",
+    "type": "card",
+    "suit": "diamonds",
+    "entries": [
+        {
+            "value": "A",
+            "result": "You receive news that a suspect has been arrested for a crime unrelated to the Case."
+        },
+        {
+            "value": "2",
+            "result": "Strange lights are seen in the sky, or on the outskirts of Town."
+        },
+        {
+            "value": "3",
+            "result": "An envelope with strange photographs is left for you."
+        },
+        {
+            "value": "4",
+            "result": "You are harassed by a person who apparently has nothing to do with the Case."
+        },
+        {
+            "value": "5",
+            "result": "You see someone acting normally; when they realize they are being watched, they run away!"
+        },
+        {
+            "value": "6",
+            "result": "Someone slips a map to a place on the outskirts of Town into your pocket."
+        },
+        {
+            "value": "7",
+            "result": "An airplane’s turbine falls on a house. Fortunately, no one gets hurt."
+        },
+        {
+            "value": "8",
+            "result": "Someone approaches you with the printed copy of a coded message, in which you can only identify your name."
+        },
+        {
+            "value": "9",
+            "result": "Suddenly, someone starts to sing and/or dance for no apparent reason."
+        },
+        {
+            "value": "10",
+            "result": "You are approached by a person whose testimony denies everything you know so far."
+        },
+        {
+            "value": "J",
+            "result": "You receive news that a chest/safe has been found, but its owner is unknown."
+        },
+        {
+            "value": "Q",
+            "result": "Strange transmissions are captured on TV and/or radio."
+        },
+        {
+            "value": "K",
+            "result": "You receive news that a suspect has been murdered."
+        }
+    ]
+}

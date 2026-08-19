@@ -1,0 +1,32 @@
+{
+	"label": "Supernatural Creature",
+	"type": "dice",
+	"dice": "1d6",
+	"info": "Whenever you find yourself on the outskirts of Town, roll two dice; if you get a double 6, you’ve encountered a Supernatural Creature",
+	"entries": [
+		{
+			"roll": 1,
+			"result": "Gnome; Size Reference: Significantly smaller than a human; Wounds: 1; Damage: -2"
+		},
+		{
+			"roll": 2,
+			"result": "Chupacabra - Size Reference: Smaller than a human; Wounds: 2; Damage: -1"
+		},
+		{
+			"roll": 3,
+			"result": "Mothman - Size Reference: Human; Wounds: 3; Damage: 0"
+		},
+		{
+			"roll": 4,
+			"result": "Sasquatch - Size Reference: Larger than a human; Wounds: 5; Damage: +1"
+		},
+		{
+			"roll": 5,
+			"result": "Thunderhawk - Size Reference: Gigantic; Wounds: 10; Damage: +5"
+		},
+		{
+			"roll": 6,
+			"result": "Wendigo - Size Reference: Titanic; Wounds: 20+; Damage: +10"
+		}
+	]
+}

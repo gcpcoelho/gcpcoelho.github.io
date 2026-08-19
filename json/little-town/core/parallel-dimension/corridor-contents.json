@@ -1,0 +1,32 @@
+{
+  "label": "Corridor Contents",
+  "type": "dice",
+  "dice": "1d6",
+  "info": "If the Corridor reached has one or more Exits, roll on the table below to define its contents",
+  "entries": [
+    {
+      "roll": 1,
+      "result": "Empty"
+    },
+    {
+      "roll": 2,
+      "result": "A sculpture"
+    },
+    {
+      "roll": 3,
+      "result": "Empty"
+    },
+    {
+      "roll": 4,
+      "result": "A floor lamp"
+    },
+    {
+      "roll": 5,
+      "result": "Empty"
+    },
+    {
+      "roll": 6,
+      "result": "Strobe lights"
+    }
+  ]
+}

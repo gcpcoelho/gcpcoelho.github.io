@@ -1,0 +1,27 @@
+{
+    "label": "Attitude Modifier",
+    "type": "info",
+    "info": "The modifiers for NPC Attitude are as follows.",
+    "entries": [
+        {
+            "condition": "Hostile",
+            "result": "-3"
+        },
+        {
+            "condition": "Unfriendly",
+            "result": "-1"
+        },
+        {
+            "condition": "Neutral",
+            "result": "0"
+        },
+        {
+            "condition": "Friendly",
+            "result": "1"
+        },
+        {
+            "condition": "Helpful",
+            "result": "3"
+        }
+    ]
+}

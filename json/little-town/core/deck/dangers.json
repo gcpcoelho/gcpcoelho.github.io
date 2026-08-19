@@ -1,0 +1,59 @@
+{
+    "label": "Danger",
+    "type": "card",
+    "suit": "spades",
+    "entries": [
+        {
+            "value": "A",
+            "result": "A criminal has escaped from the institution. Roll a secondary Case."
+        },
+        {
+            "value": "2",
+            "result": "You realize you are being followed. Return this card to the pile and shuffle."
+        },
+        {
+            "value": "3",
+            "result": "You are approached by a stranger who “advises” you to stop the Investigation. Return this card to the pile and shuffle."
+        },
+        {
+            "value": "4",
+            "result": "Someone threatens you. Mark one Instability, return this card to the pile and shuffle."
+        },
+        {
+            "value": "5",
+            "result": "While walking down the street, a stranger attacks you and quickly flees. Mark one Wound. If you wish to try and catch them, roll ‘Hot Pursuit’ with Disadvantage. Return this card to the pile and shuffle."
+        },
+        {
+            "value": "6",
+            "result": "You are accused of a crime you did not commit. Treat this situation as a secondary Case."
+        },
+        {
+            "value": "7",
+            "result": "You discover that your home/office/hotel room has been broken into and ransacked, resulting in the theft/destruction of 1d6 collected Clues. Return this card to the pile and shuffle."
+        },
+        {
+            "value": "8",
+            "result": "Hostile individuals raid the Location you’re currently investigating. Roll ‘Leave Without a Trace’ to avoid getting caught. Return this card to the pile and shuffle."
+        },
+        {
+            "value": "9",
+            "result": "You are kidnapped and taken into captivity beyond the Town limits, where you are left alone. Mark two Instabilities, and increase the Time Limit by two."
+        },
+        {
+            "value": "10",
+            "result": "When you open the door of your home/office/hotel room, you get shot at point-blank. Mark two Wounds."
+        },
+        {
+            "value": "J",
+            "result": "You discover that a friend is being held in false imprisonment at a place beyond the Town limits. Mark one Instability."
+        },
+        {
+            "value": "Q",
+            "result": "A loved one has been kidnapped. Mark two Instabilities."
+        },
+        {
+            "value": "K",
+            "result": "Your doppelgänger showed up! Roll ‘Face Doppelgänger’."
+        }
+    ]
+}

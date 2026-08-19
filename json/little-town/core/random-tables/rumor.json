@@ -1,0 +1,51 @@
+{
+    "label": "Rumor",
+    "type": "dice",
+    "dice": "2d6",
+    "entries": [
+        {
+            "roll": 2,
+            "result": "A new drug allows its users to project their consciousness through time, but it turns them into dangerous psychopaths."
+        },
+        {
+            "roll": 3,
+            "result": "A large humanoid creature was seen wandering around the outskirts of Town. Apparently, it is harmless."
+        },
+        {
+            "roll": 4,
+            "result": "An underground tunnel under the Town Hall connects the current Town to the original Town."
+        },
+        {
+            "roll": 5,
+            "result": "A severed limb/body part was found by the riverbanks/on the outskirts of Town. This happens from time to time, always in the same place, for years."
+        },
+        {
+            "roll": 6,
+            "result": "People dressed as clowns have been seen around Town, harassing those whom they meet. At first glance, they seem non-violent."
+        },
+        {
+            "roll": 7,
+            "result": "An influential citizen, regarded by all as a respectable and good-natured person, commands a crime network."
+        },
+        {
+            "roll": 8,
+            "result": "A cult has established on the outskirts of Town, and its leader wants to run for mayor."
+        },
+        {
+            "roll": 9,
+            "result": "A prominent citizen died in a car accident a few years ago. They replaced them with a look-alike who underwent several aesthetic interventions to look identical to the original, but a small scar on their forehead could not be hidden."
+        },
+        {
+            "roll": 10,
+            "result": "An unknown and abandoned building was found on the outskirts of Town. Its location is inaccurate because people reported seeing it at different sites."
+        },
+        {
+            "roll": 11,
+            "result": "The birds in the Town are actually robots that the government uses to keep an eye on everyone."
+        },
+        {
+            "roll": 12,
+            "result": "People who have been dead for decades have been seen across Town. At first glance, they seem friendly."
+        }
+    ]
+}

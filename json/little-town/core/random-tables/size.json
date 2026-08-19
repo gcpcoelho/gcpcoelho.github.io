@@ -1,0 +1,28 @@
+{
+  "label": "Size",
+  "type": "dice",
+  "dice": "1d6",
+  "entries": [
+    {
+      "roll": 1,
+      "result": "Too small"
+    },
+    {
+      "roll": 2,
+      "result": "Small"
+    },
+    {
+      "min": 3,
+      "max": 4,
+      "result": "Medium"
+    },
+    {
+      "roll": 5,
+      "result": "Large"
+    },
+    {
+      "roll": 6,
+      "result": "Too large"
+    }
+  ]
+}

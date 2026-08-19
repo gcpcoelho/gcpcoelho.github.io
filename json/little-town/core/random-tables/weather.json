@@ -1,0 +1,28 @@
+{
+  "label": "Weather",
+  "type": "dice",
+  "dice": "1d6",
+  "entries": [
+    {
+      "roll": 1,
+      "result": "Sun"
+    },
+    {
+      "roll": 2,
+      "result": "Mist/Fog"
+    },
+    {
+      "min": 3,
+      "max": 4,
+      "result": "Cloudy"
+    },
+    {
+      "roll": 5,
+      "result": "Rain"
+    },
+    {
+      "roll": 6,
+      "result": "Snow"
+    }
+  ]
+}

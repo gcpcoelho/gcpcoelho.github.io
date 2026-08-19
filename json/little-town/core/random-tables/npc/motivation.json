@@ -1,0 +1,28 @@
+{
+    "label": "Motivation",
+    "type": "dice",
+    "dice": "1d6",
+    "entries": [
+        {
+            "roll": 1,
+            "result": "Money"
+        },
+        {
+            "roll": 2,
+            "result": "Justice"
+        },
+        {
+            "min": 3,
+            "max": 4,
+            "result": "Roll an Action and/or a Theme"
+        },
+        {
+            "roll": 5,
+            "result": "Vengeance"
+        },
+        {
+            "roll": 6,
+            "result": "Duty"
+        }
+    ]
+}

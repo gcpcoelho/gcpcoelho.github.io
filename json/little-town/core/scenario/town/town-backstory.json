@@ -1,0 +1,71 @@
+{
+    "label": "Town Backstory",
+    "type": "dice",
+    "dice": "3d6",
+    "entries": [
+        {
+            "roll": 3,
+            "result": "The Town’s water source was once contaminated, leading to widespread health issues."
+        },
+        {
+            "roll": 4,
+            "result": "A once-thriving industry left the Town’s environment devastated."
+        },
+        {
+            "roll": 5,
+            "result": "Organized crime controls local businesses."
+        },
+        {
+            "roll": 6,
+            "result": "The Town was once a hub for smuggling operations."
+        },
+        {
+            "roll": 7,
+            "result": "The Town’s agricultural success was built on the exploitation of migrant workers, who were subjected to harsh conditions and unfair wages."
+        },
+        {
+            "roll": 8,
+            "result": "A corrupt sheriff once ruled the Town with an iron fist, abusing power for personal gain."
+        },
+        {
+            "roll": 9,
+            "result": "The Town’s founders engaged in unethical practices to establish prosperity."
+        },
+        {
+            "roll": 10,
+            "result": "The Town’s settlement traces back to dubious land deals."
+        },
+        {
+            "roll": 11,
+            "result": "The Town’s economic prosperity relied on fraudulent business practices."
+        },
+        {
+            "roll": 12,
+            "result": "The Town’s founders were responsible for displacing and mistreating the indigenous population."
+        },
+        {
+            "roll": 13,
+            "result": "The Town’s courthouse was once the site of unjust trials and false convictions."
+        },
+        {
+            "roll": 14,
+            "result": "The Town’s thriving industry masked a reality of exploitation, with workers facing low wages and unsafe working conditions."
+        },
+        {
+            "roll": 15,
+            "result": "A prominent religious leader used their influence to cover up a series of scandals involving abuse within the church."
+        },
+        {
+            "roll": 16,
+            "result": "The Town is facing a severe drug trafficking problem."
+        },
+        {
+            "roll": 17,
+            "result": "A once-thriving industry has collapsed, leaving unemployment."
+        },
+        {
+            "roll": 18,
+            "result": "A series of unsolved disappearances haunts the Town’s history."
+        }
+    ]
+}

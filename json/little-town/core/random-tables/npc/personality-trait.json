@@ -1,0 +1,51 @@
+{
+    "label": "Personality Trait",
+    "type": "dice",
+    "dice": "2d6",
+    "entries": [
+        {
+            "roll": 2,
+            "result": "Humble"
+        },
+        {
+            "roll": 3,
+            "result": "Cowardly"
+        },
+        {
+            "roll": 4,
+            "result": "Dishonest"
+        },
+        {
+            "roll": 5,
+            "result": "Arrogant"
+        },
+        {
+            "roll": 6,
+            "result": "Extroverted"
+        },
+        {
+            "roll": 7,
+            "result": "Distracted"
+        },
+        {
+            "roll": 8,
+            "result": "Introverted"
+        },
+        {
+            "roll": 9,
+            "result": "Narcissistic"
+        },
+        {
+            "roll": 10,
+            "result": "Moody"
+        },
+        {
+            "roll": 11,
+            "result": "Clumsy"
+        },
+        {
+            "roll": 12,
+            "result": "Fearless"
+        }
+    ]
+}

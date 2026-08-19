@@ -1,0 +1,31 @@
+{
+    "label": "Dream Scene",
+    "type": "dice",
+    "dice": "1d6",
+    "entries": [
+        {
+            "roll": 1,
+            "result": "You were driving."
+        },
+        {
+            "roll": 2,
+            "result": "You were taking an exam."
+        },
+        {
+            "roll": 3,
+            "result": "You were falling."
+        },
+        {
+            "roll": 4,
+            "result": "You were being chased."
+        },
+        {
+            "roll": 5,
+            "result": "You were naked in public."
+        },
+        {
+            "roll": 6,
+            "result": "You were dead."
+        }
+    ]
+}

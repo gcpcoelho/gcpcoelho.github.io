@@ -1,0 +1,35 @@
+{
+    "label": "Yes/No Questions",
+    "type": "info",
+    "info": "To answer a Yes/No Question, roll 2d6 and refer to the table below.",
+    "entries": [
+        {
+            "condition": "Sum is below Luck and the numbers rolled are equal.",
+            "result": "Yes and…"
+        },
+        {
+            "condition": "Sum is below Luck and the numbers rolled are different, but both are odd or both are even.",
+            "result": "Yes, but…"
+        },
+        {
+            "condition": "Sum is below Luck and the numbers rolled are different, with one odd and the other even.",
+            "result": "Yes."
+        },
+        {
+            "condition": "Sum is equal to Luck.",
+            "result": "Maybe…"
+        },
+        {
+            "condition": "Sum is above Luck and the numbers rolled are different, with one odd and the other even.",
+            "result": "No."
+        },
+        {
+            "condition": "Sum is above Luck and the numbers rolled are different, but both are odd or both are even.",
+            "result": "No and…"
+        },
+        {
+            "condition": "Sum is above Luck and the numbers rolled are equal.",
+            "result": "No, but…"
+        }
+    ]
+}

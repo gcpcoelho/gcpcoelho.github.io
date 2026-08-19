@@ -1,0 +1,187 @@
+{
+	"label": "Adjective",
+	"type": "dice",
+	"dice": "d66",
+	"entries": [
+		{
+			"row": 1,
+			"col": 1,
+			"result": "Admirable"
+		},
+		{
+			"row": 1,
+			"col": 2,
+			"result": "Dazzling"
+		},
+		{
+			"row": 1,
+			"col": 3,
+			"result": "Free"
+		},
+		{
+			"row": 1,
+			"col": 4,
+			"result": "Mysterious"
+		},
+		{
+			"row": 1,
+			"col": 5,
+			"result": "Refined"
+		},
+		{
+			"row": 1,
+			"col": 6,
+			"result": "Timeless"
+		},
+		{
+			"row": 2,
+			"col": 1,
+			"result": "Ancient"
+		},
+		{
+			"row": 2,
+			"col": 2,
+			"result": "Discreet"
+		},
+		{
+			"row": 2,
+			"col": 3,
+			"result": "Harmonious"
+		},
+		{
+			"row": 2,
+			"col": 4,
+			"result": "Mystical"
+		},
+		{
+			"row": 2,
+			"col": 5,
+			"result": "Rude"
+		},
+		{
+			"row": 2,
+			"col": 6,
+			"result": "Troublesome"
+		},
+		{
+			"row": 3,
+			"col": 1,
+			"result": "Attractive"
+		},
+		{
+			"row": 3,
+			"col": 2,
+			"result": "Eccentric"
+		},
+		{
+			"row": 3,
+			"col": 3,
+			"result": "Hateful"
+		},
+		{
+			"row": 3,
+			"col": 4,
+			"result": "Natural"
+		},
+		{
+			"row": 3,
+			"col": 5,
+			"result": "Serene"
+		},
+		{
+			"row": 3,
+			"col": 6,
+			"result": "Unpleasant"
+		},
+		{
+			"row": 4,
+			"col": 1,
+			"result": "Authentic"
+		},
+		{
+			"row": 4,
+			"col": 2,
+			"result": "Efficient"
+		},
+		{
+			"row": 4,
+			"col": 3,
+			"result": "Ingenious"
+		},
+		{
+			"row": 4,
+			"col": 4,
+			"result": "Nostalgic"
+		},
+		{
+			"row": 4,
+			"col": 5,
+			"result": "Subtle"
+		},
+		{
+			"row": 4,
+			"col": 6,
+			"result": "Vibrant"
+		},
+		{
+			"row": 5,
+			"col": 1,
+			"result": "Chaotic"
+		},
+		{
+			"row": 5,
+			"col": 2,
+			"result": "Enchanting"
+		},
+		{
+			"row": 5,
+			"col": 3,
+			"result": "Luxurious"
+		},
+		{
+			"row": 5,
+			"col": 4,
+			"result": "Outworn"
+		},
+		{
+			"row": 5,
+			"col": 5,
+			"result": "Tempting"
+		},
+		{
+			"row": 5,
+			"col": 6,
+			"result": "Whimsical"
+		},
+		{
+			"row": 6,
+			"col": 1,
+			"result": "Cozy"
+		},
+		{
+			"row": 6,
+			"col": 2,
+			"result": "Exquisite"
+		},
+		{
+			"row": 6,
+			"col": 3,
+			"result": "Melancholic"
+		},
+		{
+			"row": 6,
+			"col": 4,
+			"result": "Peculiar"
+		},
+		{
+			"row": 6,
+			"col": 5,
+			"result": "Tenacious"
+		},
+		{
+			"row": 6,
+			"col": 6,
+			"result": "Zealous"
+		}
+	]
+}

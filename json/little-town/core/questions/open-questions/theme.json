@@ -1,0 +1,187 @@
+{
+    "label": "Theme",
+    "type": "dice",
+    "dice": "d66",
+    "entries": [
+        {
+            "row": 1,
+            "col": 1,
+            "result": "Aversion"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "result": "Desire"
+        },
+        {
+            "row": 1,
+            "col": 3,
+            "result": "Family"
+        },
+        {
+            "row": 1,
+            "col": 4,
+            "result": "Joy"
+        },
+        {
+            "row": 1,
+            "col": 5,
+            "result": "Opportunity"
+        },
+        {
+            "row": 1,
+            "col": 6,
+            "result": "Secret"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "result": "Burden"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "result": "Destruction"
+        },
+        {
+            "row": 2,
+            "col": 3,
+            "result": "Fear"
+        },
+        {
+            "row": 2,
+            "col": 4,
+            "result": "Lie"
+        },
+        {
+            "row": 2,
+            "col": 5,
+            "result": "Place"
+        },
+        {
+            "row": 2,
+            "col": 6,
+            "result": "Strange"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "result": "Confidence"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "result": "Dream"
+        },
+        {
+            "row": 3,
+            "col": 3,
+            "result": "Forbidden"
+        },
+        {
+            "row": 3,
+            "col": 4,
+            "result": "Love"
+        },
+        {
+            "row": 3,
+            "col": 5,
+            "result": "Power"
+        },
+        {
+            "row": 3,
+            "col": 6,
+            "result": "Surprise"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "result": "Danger"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "result": "Duty"
+        },
+        {
+            "row": 4,
+            "col": 3,
+            "result": "Honor"
+        },
+        {
+            "row": 4,
+            "col": 4,
+            "result": "Misfortune"
+        },
+        {
+            "row": 4,
+            "col": 5,
+            "result": "Rage"
+        },
+        {
+            "row": 4,
+            "col": 6,
+            "result": "Truth"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "result": "Death"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "result": "Evil"
+        },
+        {
+            "row": 5,
+            "col": 3,
+            "result": "Hope"
+        },
+        {
+            "row": 5,
+            "col": 4,
+            "result": "Need"
+        },
+        {
+            "row": 5,
+            "col": 5,
+            "result": "Reason"
+        },
+        {
+            "row": 5,
+            "col": 6,
+            "result": "Warning"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "result": "Decadence"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "result": "Exotic"
+        },
+        {
+            "row": 6,
+            "col": 3,
+            "result": "Hostility"
+        },
+        {
+            "row": 6,
+            "col": 4,
+            "result": "Occult"
+        },
+        {
+            "row": 6,
+            "col": 5,
+            "result": "Sadness"
+        },
+        {
+            "row": 6,
+            "col": 6,
+            "result": "Wealth"
+        }
+    ]
+}

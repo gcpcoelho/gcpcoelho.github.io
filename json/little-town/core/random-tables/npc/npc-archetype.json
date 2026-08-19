@@ -1,0 +1,187 @@
+{
+    "label": "NPC Archetype",
+    "type": "dice",
+    "dice": "d66",
+    "entries": [
+        {
+            "row": 1,
+            "col": 1,
+            "result": "Grieving Parent"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "result": "Self-Proclaimed Detective"
+        },
+        {
+            "row": 1,
+            "col": 3,
+            "result": "Air Force Personnel"
+        },
+        {
+            "row": 1,
+            "col": 4,
+            "result": "Diner Owner"
+        },
+        {
+            "row": 1,
+            "col": 5,
+            "result": "School Bully"
+        },
+        {
+            "row": 1,
+            "col": 6,
+            "result": "Drug Dealer"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "result": "Restaurant Waiter"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "result": "Hospital Receptionist"
+        },
+        {
+            "row": 2,
+            "col": 3,
+            "result": "Animal Whisperer"
+        },
+        {
+            "row": 2,
+            "col": 4,
+            "result": "Investigative Journalist"
+        },
+        {
+            "row": 2,
+            "col": 5,
+            "result": "Hotel Receptionist"
+        },
+        {
+            "row": 2,
+            "col": 6,
+            "result": "School Teacher"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "result": "Casino Employee"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "result": "Town Official"
+        },
+        {
+            "row": 3,
+            "col": 3,
+            "result": "Sawmill/Factory Proprietor"
+        },
+        {
+            "row": 3,
+            "col": 4,
+            "result": "Small Business Owner"
+        },
+        {
+            "row": 3,
+            "col": 5,
+            "result": "Conspiracy Theorist"
+        },
+        {
+            "row": 3,
+            "col": 6,
+            "result": "Town Eccentric"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "result": "Criminal on Parole"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "result": "Reclusive Citizen"
+        },
+        {
+            "row": 4,
+            "col": 3,
+            "result": "Student"
+        },
+        {
+            "row": 4,
+            "col": 4,
+            "result": "Environmental Activist"
+        },
+        {
+            "row": 4,
+            "col": 5,
+            "result": "Truck Driver"
+        },
+        {
+            "row": 4,
+            "col": 6,
+            "result": "Doctor"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "result": "Elderly Citizen"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "result": "Radio Host"
+        },
+        {
+            "row": 5,
+            "col": 3,
+            "result": "Police Force Personnel"
+        },
+        {
+            "row": 5,
+            "col": 4,
+            "result": "Musician"
+        },
+        {
+            "row": 5,
+            "col": 5,
+            "result": "Department Store Employee"
+        },
+        {
+            "row": 5,
+            "col": 6,
+            "result": "Bank Manager"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "result": "Courtesan"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "result": "Bookstore Owner"
+        },
+        {
+            "row": 6,
+            "col": 3,
+            "result": "Town Archivist"
+        },
+        {
+            "row": 6,
+            "col": 4,
+            "result": "Town’s Wealthiest Person"
+        },
+        {
+            "row": 6,
+            "col": 5,
+            "result": "Psychiatrist"
+        },
+        {
+            "row": 6,
+            "col": 6,
+            "result": "Bartender"
+        }
+    ]
+}

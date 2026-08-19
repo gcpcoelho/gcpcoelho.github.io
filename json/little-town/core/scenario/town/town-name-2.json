@@ -1,0 +1,187 @@
+{
+    "label": "Town Name - Second/Third Part",
+    "type": "dice",
+    "dice": "d66",
+    "entries": [
+        {
+            "row": 1,
+            "col": 1,
+            "result": "Bay"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "result": "Cliff"
+        },
+        {
+            "row": 1,
+            "col": 3,
+            "result": "Fields"
+        },
+        {
+            "row": 1,
+            "col": 4,
+            "result": "Heights"
+        },
+        {
+            "row": 1,
+            "col": 5,
+            "result": "Lake"
+        },
+        {
+            "row": 1,
+            "col": 6,
+            "result": "Reach"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "result": "Bluffs"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "result": "Creek"
+        },
+        {
+            "row": 2,
+            "col": 3,
+            "result": "Gorge"
+        },
+        {
+            "row": 2,
+            "col": 4,
+            "result": "Hill"
+        },
+        {
+            "row": 2,
+            "col": 5,
+            "result": "Marsh"
+        },
+        {
+            "row": 2,
+            "col": 6,
+            "result": "Ridge"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "result": "Boulder"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "result": "Crest"
+        },
+        {
+            "row": 3,
+            "col": 3,
+            "result": "Glade"
+        },
+        {
+            "row": 3,
+            "col": 4,
+            "result": "Hollow"
+        },
+        {
+            "row": 3,
+            "col": 5,
+            "result": "Meadow"
+        },
+        {
+            "row": 3,
+            "col": 6,
+            "result": "River"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "result": "Brook"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "result": "Dell"
+        },
+        {
+            "row": 4,
+            "col": 3,
+            "result": "Grove"
+        },
+        {
+            "row": 4,
+            "col": 4,
+            "result": "Horizon"
+        },
+        {
+            "row": 4,
+            "col": 5,
+            "result": "Park"
+        },
+        {
+            "row": 4,
+            "col": 6,
+            "result": "Springs"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "result": "Canyon"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "result": "Falls"
+        },
+        {
+            "row": 5,
+            "col": 3,
+            "result": "Harbor"
+        },
+        {
+            "row": 5,
+            "col": 4,
+            "result": "Knoll"
+        },
+        {
+            "row": 5,
+            "col": 5,
+            "result": "Peak"
+        },
+        {
+            "row": 5,
+            "col": 6,
+            "result": "Vale"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "result": "Cave"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "result": "Fen"
+        },
+        {
+            "row": 6,
+            "col": 3,
+            "result": "Haven"
+        },
+        {
+            "row": 6,
+            "col": 4,
+            "result": "Lagoon"
+        },
+        {
+            "row": 6,
+            "col": 5,
+            "result": "Quarry"
+        },
+        {
+            "row": 6,
+            "col": 6,
+            "result": "Water"
+        }
+    ]
+}

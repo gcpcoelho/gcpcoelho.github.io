@@ -1,0 +1,28 @@
+{
+    "label": "Initial Attitude",
+    "type": "dice",
+    "dice": "1d6",
+    "entries": [
+        {
+            "roll": 1,
+            "result": "Hostile"
+        },
+        {
+            "roll": 2,
+            "result": "Unfriendly"
+        },
+        {
+            "min": 3,
+            "max": 4,
+            "result": "Neutral"
+        },
+        {
+            "roll": 5,
+            "result": "Friendly"
+        },
+        {
+            "roll": 6,
+            "result": "Helpful"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "label": "Chamber Type",
+    "type": "dice",
+    "dice": "1d6",
+    "entries": [
+        {
+            "min": 1,
+            "max": 2,
+            "result": "Room"
+        },
+        {
+            "min": 3,
+            "max": 6,
+            "result": "Corridor"
+        }
+    ]
+}
