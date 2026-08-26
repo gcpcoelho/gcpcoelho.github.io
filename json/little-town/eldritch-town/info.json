@@ -12,7 +12,7 @@
 					"order": 1,
 					"files": [
 						{
-							"name": "town.json",
+							"name": "the-town.json",
 							"title": "The Town",
 							"order": 1
 						},
@@ -39,23 +39,7 @@
 			"name": "random-tables",
 			"title": "Alternative Random Tables",
 			"order": 4,
-			"files": [
-				{
-					"name": "theme.json",
-					"title": "Theme",
-					"order": 1
-				},
-				{
-					"name": "random-event.json",
-					"title": "Random Event",
-					"order": 2
-				},
-				{
-					"name": "npc-archetype.json",
-					"title": "NPC Archetype",
-					"order": 1
-				},
-			]
+			"files": []
 		},
 		{
 			"name": "deck",
@@ -83,120 +67,6 @@
 					"order": 4
 				}
 			]
-		},
-		{
-			"name": "investigation-progress.json",
-			"title": "Investigation Progress",
-			"order": 5
-		},
-		{
-			"name": "random-event.json",
-			"title": "Random Event",
-			"order": 6
-		},
-		{
-			"name": "ordinary-event.json",
-			"title": "Ordinary Event",
-			"order": 7
-		},
-		{
-			"name": "scene-event.json",
-			"title": "Scene Event",
-			"order": 8
-		},
-		{
-			"name": "random-tables",
-			"title": "Random Tables",
-			"order": 9,
-			"files": [
-				{
-					"name": "npc",
-					"title": "NPC",
-					"order": 1,
-					"files": [
-						{
-							"name": "initial-attitude.json",
-							"title": "Initial Attitude",
-							"order": 2
-						},
-						{
-							"name": "attitude-modifier.json",
-							"title": "Attitude Modifier",
-							"order": 3
-						},
-						{
-							"name": "motivation.json",
-							"title": "Motivation",
-							"order": 4
-						},
-						{
-							"name": "personality-trait.json",
-							"title": "Personality Trait",
-							"order": 5
-						}
-					]
-				},
-				{
-					"name": "family-names.json",
-					"title": "Family Name",
-					"order": 2
-				},
-				{
-					"name": "female-names.json",
-					"title": "Female Names",
-					"order": 3
-				},
-				{
-					"name": "male-names.json",
-					"title": "Male Names",
-					"order": 4
-				},
-				{
-					"name": "location.json",
-					"title": "Location",
-					"order": 5
-				},
-				{
-					"name": "rumor.json",
-					"title": "Rumor",
-					"order": 6
-				},
-				{
-					"name": "dream-scene.json",
-					"title": "Dream Scene",
-					"order": 7
-				},
-				{
-					"name": "item.json",
-					"title": "Item",
-					"order": 8
-				},
-				{
-					"name": "adjective.json",
-					"title": "Adjective",
-					"order": 9
-				},
-				{
-					"name": "weather.json",
-					"title": "Weather",
-					"order": 10
-				},
-				{
-					"name": "size.json",
-					"title": "Size",
-					"order": 11
-				},
-				{
-					"name": "distance.json",
-					"title": "Distance",
-					"order": 12
-				}
-			]
-		},
-		{
-			"name": "supernatural-creature.json",
-			"title": "Supernatural Creatures",
-			"order": 11
 		}
 	]
 }
