@@ -3,39 +3,23 @@
 		{
 			"name": "scenario",
 			"title": "Scenario",
-			"description": "The Scenario serves as the backbone for the detective story that will unfold during the game, providing its setting and central mystery.",
 			"order": 1,
 			"files": [
 				{
 					"name": "town",
 					"title": "The Town",
-					"description": "The Town, a place that seems to have stopped in time, simultaneously in the 1950s and the 1990s. It is a place with more to hide than meets the eye, and where conspiracy theories may prove true. That’s where your Investigation will unfold.",
+					"description": "There is an uncharted and long forgotten Town. It is a place full of secrets, and its few inhabitants are not welcoming to outsiders. Some even say that it is a sinister and dangerous place to visit.",
 					"order": 1,
 					"files": [
 						{
-							"name": "natural-element.json",
-							"title": "Town Location",
+							"name": "town.json",
+							"title": "The Town",
 							"order": 1
 						},
 						{
-							"name": "town-name-1.json",
-							"title": "Town Name - First Part",
+							"name": "town-attitude-modifier.json",
+							"title": "Town Attitude Modifier",
 							"order": 2
-						},
-						{
-							"name": "town-name-2.json",
-							"title": "Town Name - Second/Third Part(s)",
-							"order": 3
-						},
-						{
-							"name": "economic-foundation.json",
-							"title": "Economic Foundation",
-							"order": 4
-						},
-						{
-							"name": "town-backstory.json",
-							"title": "Backstory",
-							"order": 5
 						}
 					]
 				},
@@ -47,63 +31,36 @@
 			]
 		},
 		{
-			"name": "investigator",
-			"title": "The Investigator",
-			"order": 2,
+			"name": "investigator-archetype.json",
+			"title": "Investigator Archetype",
+			"order": 2
+		},
+		{
+			"name": "random-tables",
+			"title": "Alternative Random Tables",
+			"order": 4,
 			"files": [
 				{
-					"name": "archetype.json",
-					"title": "Archetype",
+					"name": "theme.json",
+					"title": "Theme",
 					"order": 1
 				},
 				{
-					"name": "investigator-secrets.json",
-					"title": "Secrets",
+					"name": "random-event.json",
+					"title": "Random Event",
 					"order": 2
 				},
 				{
-					"name": "type-of-secret.json",
-					"title": "Type of Secret",
-					"order": 3
-				},
-				{
-					"name": "interest-in-case.json",
-					"title": "Interest in the Case",
-					"order": 4
-				}
-			]
-		},
-		{
-			"name": "questions",
-			"title": "Answering Questions",
-			"order": 3,
-			"files": [
-				{
-					"name": "yes-no-questions.json",
-					"title": "Yes/No Questions",
+					"name": "npc-archetype.json",
+					"title": "NPC Archetype",
 					"order": 1
 				},
-				{
-					"name": "open-questions",
-					"title": "Open Questions",
-					"order": 2,
-					"files": [
-						{
-							"name": "action.json",
-							"title": "Action"
-						},
-						{
-							"name": "theme.json",
-							"title": "Theme"
-						}
-					]
-				}
 			]
 		},
 		{
 			"name": "deck",
 			"title": "The Deck",
-			"order": 4,
+			"order": 3,
 			"files": [
 				{
 					"name": "single-events.json",
@@ -157,11 +114,6 @@
 					"title": "NPC",
 					"order": 1,
 					"files": [
-						{
-							"name": "npc-archetype.json",
-							"title": "Archetype",
-							"order": 1
-						},
 						{
 							"name": "initial-attitude.json",
 							"title": "Initial Attitude",
@@ -238,38 +190,6 @@
 					"name": "distance.json",
 					"title": "Distance",
 					"order": 12
-				}
-			]
-		},
-		{
-			"name": "parallel-dimension",
-			"title": "Parallel Dimension",
-			"order": 10,
-			"files": [
-				{
-					"name": "chamber-type.json",
-					"title": "Chamber Type",
-					"order": 1
-				},
-				{
-					"name": "chamber-exits.json",
-					"title": "Chmber Exits",
-					"order": 2
-				},
-				{
-					"name": "corridor-contents.json",
-					"title": "Corridor Contents",
-					"order": 3
-				},
-				{
-					"name": "room-contents.json",
-					"title": "Room Contents",
-					"order": 4
-				},
-				{
-					"name": "special-contents.json",
-					"title": "Special Contents",
-					"order": 5
 				}
 			]
 		},

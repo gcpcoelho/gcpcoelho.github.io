@@ -1,0 +1,59 @@
+{
+    "label": "Clue",
+    "type": "card",
+    "suit": "hearts",
+    "entries": [
+        {
+            "value": "A",
+            "result": "No Clues found. Return this card to the pile and shuffle."
+        },
+        {
+            "value": "2",
+            "result": "A strange artifact of unsettling elegance and beauty, forged from a rare metal and decorated with precious gemstones and intricate reliefs."
+        },
+        {
+            "value": "3",
+            "result": "A: A ring adorned with a sinuous pattern / B: A pendant with an oddly shaped gemstone"
+        },
+        {
+            "value": "4",
+            "result": "A: A magazine clipping outlining strange weather events around the Town / B: An old newspaper advertisement for the abandoned amusement park"
+        },
+        {
+            "value": "5",
+            "result": "A: A peculiar odor (burnt engine oil, ozone, etc.) / B: A horrid smell (rotten fish, decomposing organic matter, etc.)"
+        },
+        {
+            "value": "6",
+            "result": "A: Traces (footprints, tire tracks, etc.)* / B: Markings (symbols or sigils etched on walls, floors, objects, etc.)"
+        },
+        {
+            "value": "7",
+            "result": "A: An antique key / B: A worn map"
+        },
+        {
+            "value": "8",
+            "result": "A: Stained clothes (grease, blood, etc.) / B: A pair of gloves with traces of an unusual material"
+        },
+        {
+            "value": "9",
+            "result": "A: Residues (drugs, ashes, chemical agent, etc.) / B: A vial of a mysterious substance of otherworldly origin"
+        },
+        {
+            "value": "10",
+            "result": "A: A pocket watch bearing marks of dried blood / B: A charred camera"
+        },
+        {
+            "value": "J",
+            "result": "A: A torn piece of a police report describing a bizarre crime scene / B: A crumpled letter with desperate warnings to future readers"
+        },
+        {
+            "value": "Q",
+            "result": "A: A weathered note written in an unknown language / B: A faded manuscript detailing occult rituals and their purpose"
+        },
+        {
+            "value": "K",
+            "result": "A: A diary detailing a recurring nightmare of being a grotesque creature / B: A diary detailing unsettling encounters with otherworldly entities"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "label": "Town",
+    "type": "dice",
+    "dice": "1d6",
+    "entries": [
+        {
+            "roll": 1,
+            "result": "Hidden in the depths of an ancient forest, this Town of crumbling Gothic architecture is notorious for the whispered rumors of a labyrinth-like network of tunnels where ancient horrors supposedly lie dormant."
+        },
+        {
+            "roll": 2,
+            "result": "Swallowed by the shadows of a surrounding mountain range, this Town is known for its ancient ruins, where a secretive cult is said to perform macabre rituals."
+        },
+        {
+            "roll": 3,
+            "result": "Perched atop a desolate plateau, this Town of winding streets and twisted alleyways is rumored to harbor a library filled with eldritch tomes and forbidden texts."
+        },
+        {
+            "min": 4,
+            "max": 5,
+            "result": "Located on a desolate coast, this Town of decaying docks is allegedly home of a deranged cult that is trying to summon an ancient sea entity that will bring chaos and destruction."
+        },
+        {
+            "roll": 6,
+            "result": "Nestled within a deep, mist-shrouded valley, this dilapidated Town is said to be home of a mysterious order of scholars who delve into arcane lore in search for eternal life."
+        }
+    ]
+}

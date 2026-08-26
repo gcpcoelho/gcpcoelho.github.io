@@ -1,0 +1,59 @@
+{
+    "label": "Danger",
+    "type": "card",
+    "suit": "spades",
+    "entries": [
+        {
+            "value": "A",
+            "result": "As you cross an alley, two thugs block your path and ask for bribes."
+        },
+        {
+            "value": "2",
+            "result": "You are tied up and left to die in the sewers. Roll “Defy Danger” (Strength) to try to escape: if you’re successful, mark two Instabilities and increase the Time Limit by two; if you fail, roll “Fight Death”."
+        },
+        {
+            "value": "3",
+            "result": "You realize you are being followed. Return this card to the pile and shuffle."
+        },
+        {
+            "value": "4",
+            "result": "Walking down a street, you are attacked by a stranger who runs away immediately. Mark one Wound, return this card to the pile and shuffle."
+        },
+        {
+            "value": "5",
+            "result": "1d6 Clues that you have collected are stolen / destroyed. Return this card to the pile and shuffle."
+        },
+        {
+            "value": "6",
+            "result": "Someone threatens you. Mark one Instability, return this card to the pile and shuffle."
+        },
+        {
+            "value": "7",
+            "result": "The floor gives way and you fall into what appears to be a crypt. Increase the Time Limit by one as you try to get out."
+        },
+        {
+            "value": "8",
+            "result": "You are approached by a stranger who “advises” you to stop the Investigation. Return this card to the pile and shuffle."
+        },
+        {
+            "value": "9",
+            "result": "A mob of townsfolk raids your current Location. Roll “Frantic Flee”. Return this card to the pile and shuffle."
+        },
+        {
+            "value": "10",
+            "result": "As you enter / leave a Location, you get shot at point blank. Mark two Wounds."
+        },
+        {
+            "value": "J",
+            "result": "You see someone you think you know being dragged / pulled into a manhole. Mark one Instability."
+        },
+        {
+            "value": "Q",
+            "result": "You hear a gunshot and then realize the bullet just grazed your ear. Mark one Instability."
+        },
+        {
+            "value": "K",
+            "result": "You encounter an indescribable being. Roll an Eldritch Creature and prepare to “Confront the Incomprehensible”."
+        }
+    ]
+}

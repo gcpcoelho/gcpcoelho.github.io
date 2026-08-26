@@ -2,8 +2,13 @@
 	"files": [
 		{
 			"name": "core",
-			"description": "Little Town - Core Rules",
+			"title": "Core Rules",
 			"order": 1
+		},
+		{
+			"name": "eldritch-town",
+			"title": "Eldritch Town",
+			"order": 2
 		}
 	]
 }

@@ -1,0 +1,20 @@
+{
+    "label": "Modifier",
+    "type": "dice",
+    "dice": "1d6",
+    "entries": [
+        {
+            "roll": 1,
+            "result": "Hostile"
+        },
+        {
+            "min": 2,
+            "max": 5,
+            "result": "Unfriendly"
+        },
+        {
+            "roll": 6,
+            "result": "Neutral"
+        }
+    ]
+}

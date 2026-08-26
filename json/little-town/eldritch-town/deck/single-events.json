@@ -1,0 +1,59 @@
+{
+    "label": "Single Event",
+    "type": "card",
+    "suit": "diamonds",
+    "entries": [
+        {
+            "value": "A",
+            "result": "A large swarm of rats suddenly appears, apparently running away from something."
+        },
+        {
+            "value": "2",
+            "result": "You hear a sudden piercing cry for help."
+        },
+        {
+            "value": "3",
+            "result": "You come across a weathered and torn photograph depicting a group of what appears to be people with fish and amphibious-like features. Roll “Confront the Incomprehensible”."
+        },
+        {
+            "value": "4",
+            "result": "A strange and distorted sound of bells tolling echoes across the Town."
+        },
+        {
+            "value": "5",
+            "result": "You see someone acting normally; when they realize they are being watched, they run away!"
+        },
+        {
+            "value": "6",
+            "result": "You pass a house with boarded windows. You can hear some people talking inside, but it appears to be in a language unknown, and you can't comprehend what is being said."
+        },
+        {
+            "value": "7",
+            "result": "A tempestuous storm is forming in the Town’s outskirts. Amidst the heavy clouds and lightning, you can see winged things flying through."
+        },
+        {
+            "value": "8",
+            "result": "You're approached by an old drunk who mutters cryptic warnings about the danger you're in by staying in the Town."
+        },
+        {
+            "value": "9",
+            "result": "You hear an otherworldly and haunting chant."
+        },
+        {
+            "value": "10",
+            "result": "You are approached by a person whose testimony denies everything you know so far."
+        },
+        {
+            "value": "J",
+            "result": "An eccentric and Helpful NPC is introduced. They lead you to an isolated Location where you can talk without being watched by the townsfolk."
+        },
+        {
+            "value": "Q",
+            "result": "You see a door open, and someone you can’t see gestures at you. If you want to get closer, roll “Push Your Luck”: if you’re lucky, they pull you in before two thugs make a jump at you; if you’re unlucky, you are ambushed by the two thugs and will have to fight them."
+        },
+        {
+            "value": "K",
+            "result": "You encounter the townsfolk in procession. Roll “Push Your Luck”: if you’re lucky, they haven’t noticed you; if you’re unlucky, they noticed you and will come to get you by night time."
+        }
+    ]
+}

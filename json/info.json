@@ -2,7 +2,8 @@
 	"files": [
 		{
 			"name": "little-town",
-			"description": "Little Town",
+			"title": "Little Town",
+			"description": "Little Town is a solo investigation RPG inspired by Twin Peaks and influenced by Carved from Brindlewood and Powered by the Apocalypse games. The game puts the player in the shoes of someone who is looking to solve one or more mysteries from a quiet but peculiar little country town.",
 			"order": 1
 		}
 	]

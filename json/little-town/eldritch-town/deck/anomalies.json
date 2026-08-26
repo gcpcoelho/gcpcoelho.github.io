@@ -1,0 +1,59 @@
+{
+    "label": "Anomaly",
+    "type": "card",
+    "suit": "clubs",
+    "entries": [
+        {
+            "value": "A",
+            "result": "You witness someone being seized and devoured horribly by invisible monsters. Nobody else seems to have noticed this gruesome scene."
+        },
+        {
+            "value": "2",
+            "result": "Faint whispers reverberate through your current Location."
+        },
+        {
+            "value": "3",
+            "result": "Shadows take on a life of their own, slithering and writhing like sinister tentacles."
+        },
+        {
+            "value": "4",
+            "result": "Windows and reflective surfaces start to show twisted and grotesque reflections."
+        },
+        {
+            "value": "5",
+            "result": "An absolute silence descends upon your current Location, swallowing all sound."
+        },
+        {
+            "value": "6",
+            "result": "Ancient and indecipherable hieroglyphs materialize on the walls and floor around you."
+        },
+        {
+            "value": "7",
+            "result": "The walls around you become twisted and elongated, forming strange and impossible angles,"
+        },
+        {
+            "value": "8",
+            "result": "The laws of gravity and physics start to work unpredictably, causing disorientation and vertigo."
+        },
+        {
+            "value": "9",
+            "result": "Pulsating veins, throbbing with eldritch energy, spread across the surfaces of your current Location."
+        },
+        {
+            "value": "10",
+            "result": "An unknown and strange color flares in front of you, dances in the air and flows directly into the sky."
+        },
+        {
+            "value": "J",
+            "result": "A dense fog through which you can see unspeakable horrors engulfs your current Location."
+        },
+        {
+            "value": "Q",
+            "result": "Reality within your current Location becomes tenuous, allowing glimpses into other times and dimensions."
+        },
+        {
+            "value": "K",
+            "result": "The sun / moon disappears from the sky, bringing an ominous sense of imminent doom."
+        }
+    ]
+}

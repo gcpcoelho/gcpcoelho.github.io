@@ -1,0 +1,38 @@
+{
+    "label": "Archetype",
+    "type": "dice",
+    "dice": "2d6",
+    "entries": [
+        {
+            "roll": 2,
+            "result": "Federal Agent: an unconventional federal agent who’s in charge of investigating strange cases involving paranormal phenomena. Items: gun, badge and flashlight."
+        },
+        {
+            "roll": 3,
+            "result": "Astronomer: a scientist that spent so much time watching the stars that it now looks like the stars are watching them back. Items: portable telescope and astronomical charts."
+        },
+        {
+            "min": 4,
+            "max": 5,
+            "result": "Student: a not-so-ordinary teenager who uses their free time to research non-Euclidean calculus and its links to elder magic. Items: backpack, notebook, pencil, compass, calculator, ruler, protractor and square."
+        },
+        {
+            "min": 6,
+            "max": 8,
+            "result": "Writer: someone whose work everyone believes is fiction, but they're all wrong. Items: notebook and pen."
+        },
+        {
+            "min": 9,
+            "max": 10,
+            "result": "Antiquarian: a collector (and sometimes dealer) of rare and long-forgotten things. Items: magnifier and pair of gloves."
+        },
+        {
+            "roll": 11,
+            "result": "Librarian: someone who lives among books, organizing and cataloging them, and – most importantly – protecting the rare and forbidden ones. Items: magnifier, tweezer, pair of gloves and some rare and/or forbidden books."
+        },
+        {
+            "roll": 12,
+            "result": "Former Cultist: someone who came to the conclusion that messing up with things and beings beyond our comprehension might not be the best way to spend the time that they have left in this small accident that we call life. Items: ceremonial dagger and robe."
+        }
+    ]
+}

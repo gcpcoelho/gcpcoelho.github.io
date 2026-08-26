@@ -1,0 +1,45 @@
+{
+    "label": "Case",
+    "type": "dice",
+    "dice": "2d6",
+    "entries": [
+        {
+            "roll": 2,
+            "result": "Strange bodies were found floating by the river during a flood, and their origin points to this Town."
+        },
+        {
+            "roll": 3,
+            "result": "You have no recollection of who you are and why you are in this Town."
+        },
+        {
+            "roll": 4,
+            "result": "An important relic has disappeared."
+        },
+        {
+            "min": 5,
+            "max": 6,
+            "result": "One person has disappeared."
+        },
+        {
+            "roll": 7,
+            "result": "One person has been murdered."
+        },
+        {
+            "min": 8,
+            "max": 9,
+            "result": "One person was kidnapped."
+        },
+        {
+            "roll": 10,
+            "result": "A valuable item was stolen."
+        },
+        {
+            "roll": 11,
+            "result": "You have no recollection of how or why you ended up in this Town."
+        },
+        {
+            "roll": 12,
+            "result": "A trail of destruction left by a tremendous and unknown force appears to have started in this Town."
+        }
+    ]
+}
