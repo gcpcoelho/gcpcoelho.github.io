@@ -1,0 +1,28 @@
+{
+    "label": "Cosmic Entity",
+    "type": "dice",
+    "dice": "1d6",
+    "entries": [
+        {
+            "roll": 1,
+            "result": "Yog-Sothoth; Size: Immeasurable; Penalty: -12; Effect: 8"
+        },
+        {
+            "roll": 2,
+            "result": "Hastur; Size: Immeasurable; Penalty: -12; Effect: 8"
+        },
+        {
+            "min": 3,
+            "max": 4,
+            "result": "Nyarlathotep; Size: Immeasurable; Penalty: -12; Effect: 8"
+        },
+        {
+            "roll": 5,
+            "result": "Cthulhu; Size: Immeasurable; Penalty: -12; Effect: 8"
+        },
+        {
+            "roll": 6,
+            "result": "Shub-Niggurath; Size: Immeasurable; Penalty: -12; Effect: 8"
+        }
+    ]
+}

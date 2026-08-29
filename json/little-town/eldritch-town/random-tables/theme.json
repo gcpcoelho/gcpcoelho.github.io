@@ -1,0 +1,187 @@
+{
+    "label": "Theme",
+    "type": "dice",
+    "dice": "d66",
+    "entries": [
+        {
+            "row": 1,
+            "col": 1,
+            "result": "Aversion"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "result": "Exotic"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "result": "Power"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "result": "Burden"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "result": "Family"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "result": "Rage"
+        },
+        {
+            "row": 1,
+            "col": 3,
+            "result": "Cosmic"
+        },
+        {
+            "row": 3,
+            "col": 3,
+            "result": "Fear"
+        },
+        {
+            "row": 5,
+            "col": 3,
+            "result": "Reality"
+        },
+        {
+            "row": 1,
+            "col": 4,
+            "result": "Curse"
+        },
+        {
+            "row": 3,
+            "col": 4,
+            "result": "Forbidden"
+        },
+        {
+            "row": 5,
+            "col": 4,
+            "result": "Ruin"
+        },
+        {
+            "row": 1,
+            "col": 5,
+            "result": "Danger"
+        },
+        {
+            "row": 3,
+            "col": 5,
+            "result": "Hope"
+        },
+        {
+            "row": 5,
+            "col": 5,
+            "result": "Secret"
+        },
+        {
+            "row": 1,
+            "col": 6,
+            "result": "Death"
+        },
+        {
+            "row": 3,
+            "col": 6,
+            "result": "Horror"
+        },
+        {
+            "row": 5,
+            "col": 6,
+            "result": "Shadow"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "result": "Decadence"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "result": "Hostility"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "result": "Shroud"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "result": "Despair"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "result": "Legacy"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "result": "Strange"
+        },
+        {
+            "row": 2,
+            "col": 3,
+            "result": "Destruction"
+        },
+        {
+            "row": 4,
+            "col": 3,
+            "result": "Madness"
+        },
+        {
+            "row": 6,
+            "col": 3,
+            "result": "Suffering"
+        },
+        {
+            "row": 2,
+            "col": 4,
+            "result": "Dream"
+        },
+        {
+            "row": 4,
+            "col": 4,
+            "result": "Occult"
+        },
+        {
+            "row": 6,
+            "col": 4,
+            "result": "Truth"
+        },
+        {
+            "row": 2,
+            "col": 5,
+            "result": "Duty"
+        },
+        {
+            "row": 4,
+            "col": 5,
+            "result": "Omen"
+        },
+        {
+            "row": 6,
+            "col": 5,
+            "result": "Unnatural"
+        },
+        {
+            "row": 2,
+            "col": 6,
+            "result": "Evil"
+        },
+        {
+            "row": 4,
+            "col": 6,
+            "result": "Place"
+        },
+        {
+            "row": 6,
+            "col": 6,
+            "result": "Warning"
+        }
+    ]
+}

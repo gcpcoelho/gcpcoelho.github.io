@@ -1,0 +1,187 @@
+{
+    "label": "Item",
+    "type": "dice",
+    "dice": "d66",
+    "entries": [
+        {
+            "row": 1,
+            "col": 1,
+            "result": "Chain"
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "result": "Knife / Dagger"
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "result": "Shovel"
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "result": "Gun"
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "result": "Fossil"
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "result": "Bus ticket"
+        },
+        {
+            "row": 1,
+            "col": 3,
+            "result": "Clothes"
+        },
+        {
+            "row": 3,
+            "col": 3,
+            "result": "Musical Instrument"
+        },
+        {
+            "row": 5,
+            "col": 3,
+            "result": "Runestone"
+        },
+        {
+            "row": 1,
+            "col": 4,
+            "result": "Lock"
+        },
+        {
+            "row": 3,
+            "col": 4,
+            "result": "Food"
+        },
+        {
+            "row": 5,
+            "col": 4,
+            "result": "Mirror"
+        },
+        {
+            "row": 1,
+            "col": 5,
+            "result": "Cup / Mug / Goblet"
+        },
+        {
+            "row": 3,
+            "col": 5,
+            "result": "Hammer"
+        },
+        {
+            "row": 5,
+            "col": 5,
+            "result": "Bicycle"
+        },
+        {
+            "row": 1,
+            "col": 6,
+            "result": "Oil"
+        },
+        {
+            "row": 3,
+            "col": 6,
+            "result": "Photograph"
+        },
+        {
+            "row": 5,
+            "col": 6,
+            "result": "Clock"
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "result": "Rope"
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "result": "Lamp / Lantern"
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "result": "Painting"
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "result": "Coffin / Casket"
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "result": "Basket"
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "result": "Remedy"
+        },
+        {
+            "row": 2,
+            "col": 3,
+            "result": "Jewelry"
+        },
+        {
+            "row": 4,
+            "col": 3,
+            "result": "Candles"
+        },
+        {
+            "row": 6,
+            "col": 3,
+            "result": "Shoe"
+        },
+        {
+            "row": 2,
+            "col": 4,
+            "result": "Chisel"
+        },
+        {
+            "row": 4,
+            "col": 4,
+            "result": "Ceremonial Mask"
+        },
+        {
+            "row": 6,
+            "col": 4,
+            "result": "Journal"
+        },
+        {
+            "row": 2,
+            "col": 5,
+            "result": "Alcohol"
+        },
+        {
+            "row": 4,
+            "col": 5,
+            "result": "Barrel"
+        },
+        {
+            "row": 6,
+            "col": 5,
+            "result": "Book"
+        },
+        {
+            "row": 2,
+            "col": 6,
+            "result": "Statuette / Idol"
+        },
+        {
+            "row": 4,
+            "col": 6,
+            "result": "Glasses"
+        },
+        {
+            "row": 6,
+            "col": 6,
+            "result": "Clay Tablet"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "label": "Adjective",
+    "type": "dice",
+    "dice": "d66",
+    "entries": [
+        {
+            "row": 1,
+            "colMin": 1,
+            "colMax": 2,
+            "result": "Arcane"
+        },
+        {
+            "row": 1,
+            "colMin": 3,
+            "colMax": 4,
+            "result": "Abominable"
+        },
+        {
+            "row": 1,
+            "colMin": 5,
+            "colMax": 6,
+            "result": "Cryptic"
+        },
+        {
+            "row": 2,
+            "colMin": 1,
+            "colMax": 2,
+            "result": "Ancient"
+        },
+        {
+            "row": 2,
+            "colMin": 3,
+            "colMax": 4,
+            "result": "Blasphemous"
+        },
+        {
+            "row": 2,
+            "colMin": 5,
+            "colMax": 6,
+            "result": "Eerie"
+        },
+        {
+            "row": 3,
+            "colMin": 1,
+            "colMax": 2,
+            "result": "Decrepit"
+        },
+        {
+            "row": 3,
+            "colMin": 3,
+            "colMax": 4,
+            "result": "Dreadful"
+        },
+        {
+            "row": 3,
+            "colMin": 5,
+            "colMax": 6,
+            "result": "Forsaken"
+        },
+        {
+            "row": 4,
+            "colMin": 1,
+            "colMax": 2,
+            "result": "Derelict Market"
+        },
+        {
+            "row": 4,
+            "colMin": 1,
+            "colMax": 2,
+            "result": "Loathsome"
+        },
+        {
+            "row": 4,
+            "colMin": 3,
+            "colMax": 4,
+            "result": "Eldritch"
+        },
+        {
+            "row": 4,
+            "colMin": 5,
+            "colMax": 6,
+            "result": "Grotesque"
+        },
+        {
+            "row": 5,
+            "colMin": 1,
+            "colMax": 2,
+            "result": "Unpleasant"
+        },
+        {
+            "row": 5,
+            "colMin": 3,
+            "colMax": 4,
+            "result": "Nightmarish"
+        },
+        {
+            "row": 5,
+            "colMin": 5,
+            "colMax": 6,
+            "result": "Lurking"
+        },
+        {
+            "row": 6,
+            "colMin": 1,
+            "colMax": 2,
+            "result": "Vile"
+        },
+        {
+            "row": 6,
+            "colMin": 3,
+            "colMax": 4,
+            "result": "Uncanny"
+        },
+        {
+            "row": 6,
+            "colMin": 5,
+            "colMax": 6,
+            "result": "Unsettling"
+        }
+    ]
+}

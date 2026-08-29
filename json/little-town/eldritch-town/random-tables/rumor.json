@@ -1,0 +1,38 @@
+{
+    "label": "Rumor",
+    "type": "dice",
+    "dice": "2d6",
+    "entries": [
+        {
+            "min": 2,
+            "max": 3,
+            "result": "Powerful artifacts bestowed upon the townsfolk by an ancient god are hidden in secret locations around the Town."
+        },
+        {
+            "roll": 4,
+            "result": "An unknown and abandoned building was found on the outskirts of Town. Its location is inaccurate, since each person reported seeing it at a different site."
+        },
+        {
+            "roll": 5,
+            "result": "Ancient prophecies, foretelling the rise of a chosen one who will bring a new era of darkness and reshape the world, have been carried out."
+        },
+        {
+            "min": 6,
+            "max": 8,
+            "result": "The townsfolk are preparing to return to their ancestral home."
+        },
+        {
+            "roll": 9,
+            "result": "An underground tunnel under the Town Hall connects the current Town to the original Town."
+        },
+        {
+            "roll": 10,
+            "result": "The gatherings held at the Circle of Stones are attended by inhuman creatures."
+        },
+        {
+            "min": 11,
+            "max": 12,
+            "result": "The Town’s religious order is about to complete the ritual to bring a Cosmic Entity back to this reality."
+        }
+    ]
+}

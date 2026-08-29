@@ -1,0 +1,57 @@
+{
+    "label": "NPC Archetype",
+    "type": "dice",
+    "dice": "3d6",
+    "entries": [
+        {
+            "min": 3,
+            "max": 4,
+            "result": "Cultist"
+        },
+        {
+            "roll": 5,
+            "result": "Memory Center guard"
+        },
+        {
+            "roll": 6,
+            "result": "Postman"
+        },
+        {
+            "roll": 7,
+            "result": "Bus driver"
+        },
+        {
+            "roll": 8,
+            "result": "Grocery Store clerk"
+        },
+        {
+            "min": 9,
+            "max": 12,
+            "result": "Common citizen"
+        },
+        {
+            "roll": 13,
+            "result": "Restaurant attendant"
+        },
+        {
+            "roll": 14,
+            "result": "Hostel owner"
+        },
+        {
+            "roll": 15,
+            "result": "Town clerk"
+        },
+        {
+            "roll": 16,
+            "result": "Town constable"
+        },
+        {
+            "roll": 17,
+            "result": "Bookstore owner"
+        },
+        {
+            "roll": 18,
+            "result": "Priest / Preacher"
+        }
+    ]
+}

@@ -83,14 +83,44 @@
 			"order": 7,
 			"files": [
 				{
-					"name": "location.json",
-					"title": "Location",
+					"name": "theme.json",
+					"title": "Thene",
 					"order": 1
 				},
 				{
-					"name": "eldritch-creatures.json",
-					"title": "Eldritch Creatures",
+					"name": "location.json",
+					"title": "Location",
 					"order": 2
+				},
+				{
+					"name": "npc-archetype.json",
+					"title": "NPC Archetype",
+					"order": 3
+				},
+				{
+					"name": "rumor.json",
+					"title": "Rumor",
+					"order": 4
+				},
+				{
+					"name": "adjective.json",
+					"title": "Adjective",
+					"order": 5
+				},
+				{
+					"name": "item.json",
+					"title": "Item",
+					"order": 6
+				},
+				{
+					"name": "eldritch-creature.json",
+					"title": "Eldritch Creature",
+					"order": 7
+				},
+				{
+					"name": "cosmic-entity.json",
+					"title": "Cosmic Entity",
+					"order": 8
 				}
 			]
 		}

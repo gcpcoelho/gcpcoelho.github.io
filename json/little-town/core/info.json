@@ -185,29 +185,36 @@
 					]
 				},
 				{
-					"name": "family-names.json",
-					"title": "Family Name",
-					"order": 2
-				},
-				{
-					"name": "female-names.json",
-					"title": "Female Names",
-					"order": 3
-				},
-				{
-					"name": "male-names.json",
-					"title": "Male Names",
-					"order": 4
+					"name": "names",
+					"title": "Names",
+					"order": 2,
+					"files": [
+						{
+							"name": "family-name.json",
+							"title": "Family Name",
+							"order": 2
+						},
+						{
+							"name": "female-name.json",
+							"title": "Female Name",
+							"order": 3
+						},
+						{
+							"name": "male-name.json",
+							"title": "Male Name",
+							"order": 4
+						}
+					]
 				},
 				{
 					"name": "location.json",
 					"title": "Location",
-					"order": 5
+					"order": 3
 				},
 				{
 					"name": "rumor.json",
 					"title": "Rumor",
-					"order": 6
+					"order": 4
 				},
 				{
 					"name": "dream-scene.json",
