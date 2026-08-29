@@ -36,15 +36,24 @@
 			"order": 2
 		},
 		{
-			"name": "random-tables",
-			"title": "Alternative Random Tables",
-			"order": 4,
-			"files": []
+			"name": "scene-event.json",
+			"title": "Scene Event",
+			"order": 3
+		},
+		{
+			"name": "investigation-progress.json",
+			"title": "Investigation Progress",
+			"order": 4
+		},
+		{
+			"name": "random-event.json",
+			"title": "Random Event",
+			"order": 5
 		},
 		{
 			"name": "deck",
 			"title": "The Deck",
-			"order": 3,
+			"order": 6,
 			"files": [
 				{
 					"name": "single-events.json",
@@ -65,6 +74,17 @@
 					"name": "clues.json",
 					"title": "♥ Clues",
 					"order": 4
+				}
+			]
+		},
+		{
+			"name": "random-tables",
+			"title": "Alternative Random Tables",
+			"order": 7,
+			"files": [
+				{
+					"name": "eldritch-creatures.json",
+					"title": "Eldritch Creatures",
 				}
 			]
 		}

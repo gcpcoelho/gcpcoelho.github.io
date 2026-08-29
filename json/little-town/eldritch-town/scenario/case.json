@@ -2,6 +2,7 @@
     "label": "Case",
     "type": "dice",
     "dice": "2d6",
+    "info": "What brings you to this unfriendly Town?",
     "entries": [
         {
             "roll": 2,

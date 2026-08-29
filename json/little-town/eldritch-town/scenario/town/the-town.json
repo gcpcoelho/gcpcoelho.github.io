@@ -2,6 +2,7 @@
     "label": "Town",
     "type": "dice",
     "dice": "1d6",
+    "info": "There is an uncharted and long forgotten Town. It is a place full of secrets, and its few inhabitants are not welcoming to outsiders. Some even say that it is a sinister and dangerous place to visit. This is where your Investigation will take place.",
     "entries": [
         {
             "roll": 1,

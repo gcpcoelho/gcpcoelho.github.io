@@ -1,0 +1,39 @@
+{
+    "label": "Investigation Progress",
+    "type": "dice",
+    "dice": "2d6",
+    "entries": [
+        {
+            "min": 2,
+            "max": 3,
+            "result": "Draw a Danger card."
+        },
+        {
+            "roll": 4,
+            "result": "You get in touch with an Hostile NPC that may know something about the Case. If you wish, roll “Interrogate”."
+        },
+        {
+            "min": 5,
+            "max": 6,
+            "result": "You notice someone talking about the Case. Roll “Defy Danger” to try to eavesdrop: if you succeed, roll a Rumor."
+        },
+        {
+            "roll": 7,
+            "result": "There is nothing to favor the Investigation at this Location."
+        },
+        {
+            "min": 8,
+            "max": 9,
+            "result": "There might be a Clue in this Location. If you wish, roll “Investigate”."
+        },
+        {
+            "roll": 10,
+            "result": "You get in touch with an Unfriendly NPC that may know something about the Case. If you wish, roll “Interrogate”."
+        },
+        {
+            "min": 11,
+            "max": 12,
+            "result": "You see a suspect at the Location. If you wish (and need) to follow them, roll “On Someone’s Tail”."
+        }
+    ]
+}

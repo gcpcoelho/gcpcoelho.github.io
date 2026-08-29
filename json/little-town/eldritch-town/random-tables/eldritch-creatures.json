@@ -1,0 +1,63 @@
+{
+    "label": "Eldritch Creature",
+    "type": "dice",
+    "dice": "4d6",
+    "info": "They exist;  some are lurking around the Town and its surroundings, and some might have been summoned to this reality. You may or may not encounter them, but one thing is certain: you should avoid them at any cost, because things probably won’t end well.",
+    "entries": [
+        {
+            "roll": 4,
+            "result": "Great Race of Yith; Size: Gigantic; Penalty: -6; Effect: 5; Wounds: 10; Damage: +5"
+        },
+        {
+            "roll": 5,
+            "result": "Hydra; Size: Gigantic; Penalty: -6; Effect: 5; Wounds: 10; Damage: +5"
+        },
+        {
+            "roll": 6,
+            "result": "Flying Polyp; Size: Much larger than a human; Penalty: -5; Effect: 4; Wounds: 7; Damage: +2"
+        },
+        {
+            "roll": 7,
+            "result": "Night-Gaunt; Size: Larger than a human; Penalty: -4; Effect: 3; Wounds: 5; Damage: +1"
+        },
+        {
+            "roll": 8,
+            "result": "Ghast; Size: Larger than a human; Penalty: -4; Effect: 3; Wounds: 5; Damage: +1"
+        },
+        {
+            "min": 9,
+            "max": 11,
+            "result": "Ghoul; Size: Human; Penalty: -2; Effect: 2; Wounds: 3; Damage: 0"
+        },
+        {
+            "min": 12,
+            "max": 16,
+            "result": "Rat-Thing; Size: Much smaller than a human; Penalty: -1; Effect: 1; Wounds: 1; Damage: -2"
+        },
+        {
+            "min": 17,
+            "max": 19,
+            "result": "Deep One; Size: Human; Penalty: -2; Effect: 2; Wounds: 3; Damage: 0"
+        },
+        {
+            "roll": 20,
+            "result": "Mi-Go; Size: Larger than a human; Penalty: -4; Effect: 3; Wounds: 5; Damage: +1"
+        },
+        {
+            "roll": 21,
+            "result": "Elder Thing; Size: Much larger than a human; Penalty: -5; Effect: 4; Wounds: 7; Damage: +2"
+        },
+        {
+            "roll": 22,
+            "result": "Shoggoth; Size: Gigantic; Penalty: -6; Effect: 5; Wounds: 10; Damage: +5"
+        },
+        {
+            "roll": 23,
+            "result": "Dagon; Size: Gigantic; Penalty: -6; Effect: 5; Wounds: 10; Damage: +5"
+        },
+        {
+            "roll": 24,
+            "result": "Star Spawn of Cthulhu; Size: Titanic; Penalty: -8; Effect: 6; Wounds: 20+; Damage: +10"
+        }
+    ]
+}

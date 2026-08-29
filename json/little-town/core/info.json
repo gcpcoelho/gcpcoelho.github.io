@@ -238,6 +238,11 @@
 					"name": "distance.json",
 					"title": "Distance",
 					"order": 12
+				},
+				{
+					"name": "supernatural-creature.json",
+					"title": "Supernatural Creatures",
+					"order": 13
 				}
 			]
 		},
@@ -272,11 +277,6 @@
 					"order": 5
 				}
 			]
-		},
-		{
-			"name": "supernatural-creature.json",
-			"title": "Supernatural Creatures",
-			"order": 11
 		}
 	]
 }

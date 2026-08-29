@@ -2,6 +2,7 @@
     "label": "Modifier",
     "type": "dice",
     "dice": "1d6",
+    "info": "The townsfolk are usually distrustful and do not take well to the presence of strangers. Therefore, whenever you come into contact with anyone in Town, roll their Attitude.",
     "entries": [
         {
             "roll": 1,
