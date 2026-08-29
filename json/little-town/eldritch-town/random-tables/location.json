@@ -1,0 +1,115 @@
+{
+    "label": "Location",
+    "type": "dice",
+    "dice": "d66",
+    "entries": [
+        {
+            "row": 1,
+            "colMin": 1,
+            "colMax": 2,
+            "result": "Abandoned School"
+        },
+        {
+            "row": 1,
+            "colMin": 3,
+            "colMax": 4,
+            "result": "Old Bus Station"
+        },
+        {
+            "row": 1,
+            "colMin": 5,
+            "colMax": 6,
+            "result": "Old Graveyard"
+        },
+        {
+            "row": 2,
+            "colMin": 1,
+            "colMax": 2,
+            "result": "Decaying Church"
+        },
+        {
+            "row": 2,
+            "colMin": 3,
+            "colMax": 4,
+            "result": "Hostel"
+        },
+        {
+            "row": 2,
+            "colMin": 5,
+            "colMax": 6,
+            "result": "Crumbling Watchtower"
+        },
+        {
+            "row": 3,
+            "colMin": 1,
+            "colMax": 2,
+            "result": "Old Warehouses"
+        },
+        {
+            "row": 3,
+            "colMin": 3,
+            "colMax": 4,
+            "result": "Main Square"
+        },
+        {
+            "row": 3,
+            "colMin": 5,
+            "colMax": 6,
+            "result": "Memory Center"
+        },
+        {
+            "row": 4,
+            "colMin": 1,
+            "colMax": 2,
+            "result": "Derelict Market"
+        },
+        {
+            "row": 4,
+            "colMin": 3,
+            "colMax": 4,
+            "result": "Grocery Store"
+        },
+        {
+            "row": 4,
+            "colMin": 5,
+            "colMax": 6,
+            "result": "Ruined Hunting Lodge"
+        },
+        {
+            "row": 5,
+            "colMin": 1,
+            "colMax": 2,
+            "result": "Abandoned Factory"
+        },
+        {
+            "row": 5,
+            "colMin": 3,
+            "colMax": 4,
+            "result": "Run-down Restaurant"
+        },
+        {
+            "row": 5,
+            "colMin": 5,
+            "colMax": 6,
+            "result": "Sewers / Tunnels"
+        },
+        {
+            "row": 6,
+            "colMin": 1,
+            "colMax": 2,
+            "result": "Abandoned Park"
+        },
+        {
+            "row": 6,
+            "colMin": 3,
+            "colMax": 4,
+            "result": "Old Bookstore"
+        },
+        {
+            "row": 6,
+            "colMin": 5,
+            "colMax": 6,
+            "result": "Circle of Stones"
+        }
+    ]
+}

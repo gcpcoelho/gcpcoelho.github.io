@@ -83,8 +83,14 @@
 			"order": 7,
 			"files": [
 				{
+					"name": "location.json",
+					"title": "Location",
+					"order": 1
+				},
+				{
 					"name": "eldritch-creatures.json",
-					"title": "Eldritch Creatures"
+					"title": "Eldritch Creatures",
+					"order": 2
 				}
 			]
 		}
