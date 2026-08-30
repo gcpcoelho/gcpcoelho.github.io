@@ -10,12 +10,14 @@
         },
         {
             "roll": 4,
-            "result": "You get in touch with an Hostile NPC that may know something about the Case. If you wish, roll “Interrogate”."
+            "result": "You get in touch with an Hostile NPC that may know something about the Case. If you wish, roll “Interrogate”.",
+            "nextTable": "/little-town/eldritch-town/random-tables/npc-archetype"
         },
         {
             "min": 5,
             "max": 6,
-            "result": "You notice someone talking about the Case. Roll “Defy Danger” to try to eavesdrop: if you succeed, roll a Rumor."
+            "result": "You notice someone talking about the Case. Roll “Defy Danger” to try to eavesdrop: if you succeed, roll a Rumor.",
+            "nextTable": "/little-town/eldritch-town/random-tables/rumor"
         },
         {
             "roll": 7,
@@ -28,12 +30,14 @@
         },
         {
             "roll": 10,
-            "result": "You get in touch with an Unfriendly NPC that may know something about the Case. If you wish, roll “Interrogate”."
+            "result": "You get in touch with an Unfriendly NPC that may know something about the Case. If you wish, roll “Interrogate”.",
+            "nextTable": "/little-town/eldritch-town/random-tables/npc-archetype"
         },
         {
             "min": 11,
             "max": 12,
-            "result": "You see a suspect at the Location. If you wish (and need) to follow them, roll “On Someone’s Tail”."
+            "result": "You see a suspect at the Location. If you wish (and need) to follow them, roll “On Someone’s Tail”.",
+            "nextTable": "/little-town/eldritch-town/random-tables/npc-archetype"
         }
     ]
 }

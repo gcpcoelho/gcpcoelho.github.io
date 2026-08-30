@@ -183,5 +183,6 @@
             "col": 6,
             "result": "Warning"
         }
-    ]
+    ],
+    "nextTable": "/little-town/core/questions/open-questions/action"
 }
