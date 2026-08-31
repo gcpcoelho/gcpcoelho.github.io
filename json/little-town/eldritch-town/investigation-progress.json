@@ -6,7 +6,8 @@
         {
             "min": 2,
             "max": 3,
-            "result": "Draw a Danger card."
+            "result": "Draw a Danger card.",
+            "nextTable": "/little-town/eldritch-town/deck/dangers"
         },
         {
             "roll": 4,
@@ -26,7 +27,8 @@
         {
             "min": 8,
             "max": 9,
-            "result": "There might be a Clue in this Location. If you wish, roll “Investigate”."
+            "result": "There might be a Clue in this Location. If you wish, roll “Investigate”.",
+            "nextTable": "/little-town/eldritch-town/deck/clues"
         },
         {
             "roll": 10,

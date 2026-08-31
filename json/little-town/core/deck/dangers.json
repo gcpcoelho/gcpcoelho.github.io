@@ -5,7 +5,8 @@
     "entries": [
         {
             "value": "A",
-            "result": "A criminal has escaped from the institution. Roll a secondary Case."
+            "result": "A criminal has escaped from the institution. Roll a secondary Case.",
+            "nextTable": "/little-town/core/scenario/case"
         },
         {
             "value": "2",

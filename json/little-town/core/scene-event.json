@@ -6,16 +6,19 @@
     "entries": [
         {
             "max": 8,
-            "result": "Roll on the Random Event table."
+            "result": "Roll on the Random Event table.",
+            "nextTable": "/little-town/core/random-event"
         },
         {
             "min": 9,
             "max": 12,
-            "result": "Roll on the Investigation Progress table."
+            "result": "Roll on the Investigation Progress table.",
+            "nextTable": "/little-town/core/investigation-progress"
         },
         {
             "min": 13,
-            "result": "Draw a card from the ♠ Dangers pile."
+            "result": "Draw a card from the ♠ Dangers pile.",
+            "nextTable": "/little-town/core/deck/dangers"
         }
     ]
 }

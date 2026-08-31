@@ -1,0 +1,16 @@
+{
+    "label": "Form",
+    "type": "dice",
+    "dice": "1d6",
+    "entries": [
+        {
+            "min": 1,
+            "max": 5,
+            "result": "Human"
+        },
+        {
+            "roll": 6,
+            "result": "Non-Human"
+        }
+    ]
+}

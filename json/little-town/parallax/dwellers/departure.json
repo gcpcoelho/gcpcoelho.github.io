@@ -1,0 +1,21 @@
+{
+  "label": "How do they leave the Scene?",
+  "type": "dice",
+  "dice": "1d6",
+  "entries": [
+    {
+      "min": 1,
+      "max": 2,
+      "result": "Walking out of the Location"
+    },
+    {
+      "min": 3,
+      "max": 5,
+      "result": "Dematerializing / Fading out of view"
+    },
+    {
+      "roll": 6,
+      "result": "Disappearing in the blink of an eye"
+    }
+  ]
+}

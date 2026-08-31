@@ -9,6 +9,16 @@
 			"name": "eldritch-town",
 			"title": "Eldritch Town",
 			"order": 2
+		},
+		{
+			"name": "gazette",
+			"title": "Little Town Gazette",
+			"order": 4
+		},
+		{
+			"name": "parallax",
+			"title": "Parallax",
+			"order": 5
 		}
 	]
 }

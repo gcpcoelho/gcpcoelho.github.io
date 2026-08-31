@@ -6,27 +6,27 @@
 	"entries": [
 		{
 			"roll": 1,
-			"result": "Gnome; Size Reference: Significantly smaller than a human; Wounds: 1; Damage: -2"
+			"result": "Gnome\n\tSize Reference: Significantly smaller than a human\n\tWounds: 1\n\tDamage: -2"
 		},
 		{
 			"roll": 2,
-			"result": "Chupacabra - Size Reference: Smaller than a human; Wounds: 2; Damage: -1"
+			"result": "Chupacabra - Size Reference: Smaller than a human\n\tWounds: 2\n\tDamage: -1"
 		},
 		{
 			"roll": 3,
-			"result": "Mothman - Size Reference: Human; Wounds: 3; Damage: 0"
+			"result": "Mothman - Size Reference: Human\n\tWounds: 3\n\tDamage: 0"
 		},
 		{
 			"roll": 4,
-			"result": "Sasquatch - Size Reference: Larger than a human; Wounds: 5; Damage: +1"
+			"result": "Sasquatch - Size Reference: Larger than a human\n\tWounds: 5\n\tDamage: +1"
 		},
 		{
 			"roll": 5,
-			"result": "Thunderhawk - Size Reference: Gigantic; Wounds: 10; Damage: +5"
+			"result": "Thunderhawk - Size Reference: Gigantic\n\tWounds: 10\n\tDamage: +5"
 		},
 		{
 			"roll": 6,
-			"result": "Wendigo - Size Reference: Titanic; Wounds: 20+; Damage: +10"
+			"result": "Wendigo - Size Reference: Titanic\n\tWounds: 20+\n\tDamage: +10"
 		}
 	]
 }

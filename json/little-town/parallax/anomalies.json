@@ -1,0 +1,59 @@
+{
+    "label": "Anomaly",
+    "type": "card",
+    "suit": "clubs",
+    "entries": [
+        {
+            "value": "A",
+            "result": "While walking down a street, you notice a man in a spotless white suit, polished white shoes, and a Panama hat approaching with his head lowered. As you pass each other, he politely asks if you have a light, the brim of his hat concealing his face. As you reply, he slowly lifts his head, revealing the rotting face of a corpse. Without warning, he bursts into a loud, unsettling laugh, exposing a mouth full of gleaming gold teeth. The next moment, he is gone. No one else seems to have noticed him."
+        },
+        {
+            "value": "2",
+            "result": "When you draw this card, treat the first prompt as the Anomaly you encounter, then return it to the pile and reshuffle. The next time you draw it, use the second prompt and discard the card.\n\ta. You watch someone walk behind a tree or pillar and disappear from view. A few moments later, you realize that they haven't emerged on the other side. As you look around it, there is no one there. The area is completely open, with nowhere they could have gone.\n\tb. You catch a glimpse of a figure where no one could be, seemingly watching you. As you go to investigate, you can't find anyone, despite there being nowhere for anyone to hide or leave without being seen."
+        },
+        {
+            "value": "3",
+            "result": "The wall slowly bulges in and out, as though something is breathing behind it. Suddenly, it bursts open, and dozens of critters crawl out, quickly covering the entire location. The next instant, they are gone, and you see that the wall is completely intact. No one else seems to have noticed."
+        },
+        {
+            "value": "4",
+            "result": "As you walk past a store window, you notice your reflection seems slightly out of sync with your movements. For a moment, it seems to smile strangely back at you. When you turn back to check, your reflection is perfectly normal, and a salesperson comes to the door and asks you to come in."
+        },
+        {
+            "value": "5",
+            "result": "While checking a security camera system, you see yourself at another Location you haven't visited. The timestamp shows the current time. When you ask about it, other people confirm seeing you there, but say you stood completely motionless and only answered with brief, one-word replies."
+        },
+        {
+            "value": "6",
+            "result": "When you draw this card, treat the first prompt as the Anomaly you encounter, then return it to the pile and reshuffle. Each time it is drawn, use the next prompt. After the last prompt is used, discard the card.\n\ta. As you watch a flock of birds flying in the distance, they begin to rearrange themselves, forming a strange geometric pattern in the sky. For a few seconds, they remain perfectly in formation before suddenly dispersing. Nobody else seems to have noticed.\n\tb. You notice a flock of birds suddenly rising into the sky and flying in the same direction as a car driving down the road. They keep pace with it, changing direction whenever the car does, as though they are following it. After you lose sight of them, you hear a loud screech followed by a crash in the distance. When you run to see what happened, there is no sign of an accident.\n\tc. You pass by a bird that keeps its eyes fixed on you, following your every movement as though it were monitoring you. Then it rises into the air and drifts backward, still facing you, until it disappears from sight."
+        },
+        {
+            "value": "7",
+            "result": "When you draw this card, treat the first prompt as the Anomaly you encounter, then return it to the pile and reshuffle. The next time you draw it, use the second prompt and discard the card.\n\ta. You receive a phone call. When you answer, you hear your own voice on the other end, quietly asking, \"Is it future, or is it past?\"\nThen the line goes dead.\n\tb. While watching a rerun, one person looks directly into the camera, addresses you by name, and asks, \"What do you fear most in the world?\"\nThen the program continues normally as though nothing happened. No one else seems to have noticed."
+        },
+        {
+            "value": "8",
+            "result": "You board an elevator with several people. When the doors close, the lights flicker off, and you are suddenly alone. The elevator stops, and you are in a building you do not recognize. An immense figure seems to be moving down the corridor. When you sense it drawing closer, the doors close again, the lights flicker on, and everything is back to normal."
+        },
+        {
+            "value": "9",
+            "result": "The air ahead begins to shimmer and twist as a swirling vortex opens, seemingly sucking in the surrounding reality. After a few seconds, it closes, and one person at the Location has disappeared. No one else seems to notice."
+        },
+        {
+            "value": "10",
+            "result": "While passing beneath a bridge or overpass, you catch a glimpse of a tall, pale figure with unnaturally long arms and legs walking upside down along its underside. As it seems to make eye contact with you, it walks out of sight. No one else seems to have noticed."
+        },
+        {
+            "value": "J",
+            "result": "When you draw this card, treat the first prompt as the Anomaly you encounter, then return it to the pile and reshuffle. The next time you draw it, use the second prompt and discard the card.\n\ta. You notice that one floor of a building under construction is brightly lit. There is no possible source for the light, since the structure is nothing more than exposed concrete and steel, with no walls, wiring, or electrical service. After a sudden, blinding flash, the light goes out.\n\tb. As you pass by the building under construction, you notice an indistinct figure standing on the same floor where you saw the strange light before. When you look back toward the street, the figure is now standing in front of you. After a sudden, blinding flash, the figure disappears."
+        },
+        {
+            "value": "Q",
+            "result": "When you draw this card, treat the first prompt as the Anomaly you encounter, then return it to the pile and reshuffle. Each time it is drawn, use the next prompt. After the last prompt is used, discard the card.\n\ta. You hear footsteps behind you, as if someone is following. As you turn around, no one is there.\n\tb. You catch a sudden movement out of the corner of your eye. It feels as though someone else is with you.\n\tc. You wake up convinced that someone was standing beside your bed. The room is empty, but there is a clear impression on the floor where they stood.\n\td. You glance at a reflective surface and see a faceless figure standing behind you. As you turn around, no one is there."
+        },
+        {
+            "value": "K",
+            "result": "You find a door in your home / office / hotel room where there has never been one before. Before you can decide what to do, someone knocks from the other side. The knocking is calm, deliberate, and unmistakably human. If you decide to answer, roll 1d6:\n\t1. You find yourself standing in front of a blank wall where the door should have been.\n\t2. You find a mirrored version of your current Location. As soon as you step through the door, the next thing you remember is waking up in your own bed. Increase the Time Limit by one.\n\t3. You find someone pointing a gun at you. Before you can recognize their face or react, they fire. You wake up a few days later in the Hospital, where the doctors tell you that you were found unconscious. Mark 1 Wound and increase the Time Limit by two.\n\t4. You find an empty and dirty room. Directly in front of you is a green Formica table with two chairs facing each other. At the far end of the room, behind a few old, worn pieces of furniture, are three large windows covered with tattered, weathered paper. As soon as you step through the door, you find yourself in a completely different Location.\n\t5. You find an empty corridor. Its walls are draped with red curtains, and the floor features a chevron pattern. As soon as you step through the door, it closes behind you and now you're trapped in the Parallel Dimension.\n\t6. You encounter your doppelgänger. Roll Face Doppelgänger.\nIf you leave the door closed, you hear the voice of a dead person calling your name. As the minutes pass, the knocks turn into bangs that grow louder and more violent with each strike. Then the door suddenly bursts open, and the next thing you remember is waking up in your own bed. Increase the Time Limit by one."
+        }
+    ]
+}

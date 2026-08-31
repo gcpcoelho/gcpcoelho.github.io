@@ -53,7 +53,8 @@
         },
         {
             "value": "K",
-            "result": "You encounter an indescribable being. Roll an Eldritch Creature and prepare to “Confront the Incomprehensible”."
+            "result": "You encounter an indescribable being. Roll an Eldritch Creature and prepare to “Confront the Incomprehensible”.",
+            "nextTable": "/little-town/eldritch-town/random-tables/eldritch-creature"
         }
     ]
 }

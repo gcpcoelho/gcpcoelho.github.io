@@ -5,7 +5,8 @@
     "entries": [
         {
             "roll": 2,
-            "result": "Draw a card from the ♠ Dangers pile."
+            "result": "Draw a card from the ♠ Dangers pile.",
+            "nextTable": "/little-town/core/deck/dangers"
         },
         {
             "roll": 3,
@@ -13,39 +14,48 @@
         },
         {
             "roll": 4,
-            "result": "A negative event occurs. Roll an Action + Theme pair."
+            "result": "A negative event occurs. Roll an Action + Theme pair.",
+            "nextTable": "/little-town/core/questions/open-questions/theme"
         },
         {
             "roll": 5,
-            "result": "A Hostile NPC is introduced."
+            "result": "A Hostile NPC is introduced.",
+            "nextTable": "/little-town/core/random-tables/npc/npc-archetype"
         },
         {
             "roll": 6,
-            "result": "Draw a card from the ♣ Anomalies pile."
+            "result": "Draw a card from the ♣ Anomalies pile.",
+            "nextTable": "/little-town/core/deck/anomalies"
         },
         {
             "roll": 7,
-            "result": "A Neutral NPC is introduced."
+            "result": "A Neutral NPC is introduced.",
+            "nextTable": "/little-town/core/random-tables/npc/npc-archetype"
         },
         {
             "roll": 8,
-            "result": "Draw a card from the ♦ Single Events pile."
+            "result": "Draw a card from the ♦ Single Events pile.",
+            "nextTable": "/little-town/core/deck/single-events"
         },
         {
             "roll": 9,
-            "result": "A Helpful NPC is introduced."
+            "result": "A Helpful NPC is introduced.",
+            "nextTable": "/little-town/core/random-tables/npc/npc-archetype"
         },
         {
             "roll": 10,
-            "result": "A neutral event occurs. Roll an Ordinary Event or an Action + Theme pair."
+            "result": "A neutral event occurs. Roll an Ordinary Event or an Action + Theme pair.",
+            "nextTable": "/little-town/core/ordinary-event"
         },
         {
             "roll": 11,
-            "result": "You remember a Dream. Roll ‘Remembering a Dream’."
+            "result": "You remember a Dream. Roll ‘Remembering a Dream’.",
+            "nextTable": "/little-town/core/random-tables/dream-scene"
         },
         {
             "roll": 12,
-            "result": "A positive event occurs. Roll an Action + Theme pair."
+            "result": "A positive event occurs. Roll an Action + Theme pair.",
+            "nextTable": "/little-town/core/questions/open-questions/theme"
         }
     ]
 }

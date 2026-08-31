@@ -1,29 +1,28 @@
 {
-    "label": "Motivation",
+    "label": "Height",
     "type": "dice",
     "dice": "1d6",
     "entries": [
         {
             "roll": 1,
-            "result": "Money"
+            "result": "Too Short"
         },
         {
             "roll": 2,
-            "result": "Justice"
+            "result": "Short"
         },
         {
             "min": 3,
             "max": 4,
-            "result": "Roll an Action and/or a Theme",
-            "nextTable": "/little-town/core/questions/open-questions/theme"
+            "result": "Average Height"
         },
         {
             "roll": 5,
-            "result": "Vengeance"
+            "result": "Tall"
         },
         {
             "roll": 6,
-            "result": "Duty"
+            "result": "Very Tall"
         }
     ]
 }

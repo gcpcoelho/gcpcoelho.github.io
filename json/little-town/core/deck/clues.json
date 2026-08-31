@@ -9,51 +9,51 @@
         },
         {
             "value": "2",
-            "result": "A: A tiny piece of paper with a typewritten letter. /  B: Markings (e.g., symbols or sigils etched on walls)."
+            "result": "A: A tiny piece of paper with a typewritten letter.\nB: Markings (e.g., symbols or sigils etched on walls)."
         },
         {
             "value": "3",
-            "result": "A: A personal item (e.g., a signet). /  B: A personal item (e.g., a necklace)."
+            "result": "A: A personal item (e.g., a signet).\nB: A personal item (e.g., a necklace)."
         },
         {
             "value": "4",
-            "result": "A: A magazine clipping. /  B: An old newspaper article."
+            "result": "A: A magazine clipping.\nB: An old newspaper article."
         },
         {
             "value": "5",
-            "result": "A: Traces (e.g., footprints). /  B: Traces (e.g., tire tracks)."
+            "result": "A: Traces (e.g., footprints).\nB: Traces (e.g., tire tracks)."
         },
         {
             "value": "6",
-            "result": "A: A peculiar odor (e.g., burnt engine oil, ozone, or sulfur). /  B: Unexpected readings (e.g., electromagnetic fluctuations)."
+            "result": "A: A peculiar odor (e.g., burnt engine oil, ozone, or sulfur).\nB: Unexpected readings (e.g., electromagnetic fluctuations)."
         },
         {
             "value": "7",
-            "result": "A: A key. /  B: A worn map. /  C: The blueprint of a building."
+            "result": "A: A key.\nB: A worn map.\nC: The blueprint of a building."
         },
         {
             "value": "8",
-            "result": "A: Stained clothes (e.g., grease or blood). /  B: A pair of gloves with traces of a viscous material. /  C: A weapon."
+            "result": "A: Stained clothes (e.g., grease or blood).\nB: A pair of gloves with traces of a viscous material.\nC: A weapon."
         },
         {
             "value": "9",
-            "result": "A: Residues (e.g., drugs). /  B: Residues (e.g., ashes)."
+            "result": "A: Residues (e.g., drugs).\nB: Residues (e.g., ashes)."
         },
         {
             "value": "10",
-            "result": "A: A regular object (e.g., a poker chip). /  B: A regular object (e.g., a domino)."
+            "result": "A: A regular object (e.g., a poker chip).\nB: A regular object (e.g., a domino)."
         },
         {
             "value": "J",
-            "result": "A: Recordings (e.g., cassette tapes). /  B: Recordings (e.g., VHS tapes)."
+            "result": "A: Recordings (e.g., cassette tapes).\nB: Recordings (e.g., VHS tapes)."
         },
         {
             "value": "Q",
-            "result": "A: A weathered note. /  B: A crumpled letter."
+            "result": "A: A weathered note.\nB: A crumpled letter."
         },
         {
             "value": "K",
-            "result": "A: A diary. /  B: A secret diary."
+            "result": "A: A diary.\nB: A secret diary."
         }
     ]
 }

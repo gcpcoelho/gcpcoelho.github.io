@@ -45,15 +45,18 @@
         },
         {
             "value": "J",
-            "result": "A stranger shows up and starts to talk to you in a cryptic way. No one else at the Location saw them. Roll an Action and/or a Theme for the cryptic message."
+            "result": "A stranger shows up and starts to talk to you in a cryptic way. No one else at the Location saw them. Roll an Action and/or a Theme for the cryptic message.",
+            "nextTable": "/little-town/core/questions/open-questions/theme"
         },
         {
             "value": "Q",
-            "result": "You encounter a deceased person. They approach and whisper something in your ear. No one else at the Scene saw them. Roll ‘Whispers from Beyond’ to find out what was whispered."
+            "result": "You encounter a deceased person. They approach and whisper something in your ear. No one else at the Scene saw them. Roll ‘Whispers from Beyond’ to find out what was whispered.",
+            "nextTable": "/little-town/core/questions/open-questions/theme"
         },
         {
             "value": "K",
-            "result": "You find yourself alone in a place where, a moment before, there were other people. A stranger approaches you and hands you an object without saying anything. Roll 1d6: if the number is between 1 and 5, roll an Item; if the number is 6, draw a card from the ♥ Clues pile."
+            "result": "You find yourself alone in a place where, a moment before, there were other people. A stranger approaches you and hands you an object without saying anything. Roll 1d6: if the number is between 1 and 5, roll an Item; if the number is 6, draw a card from the ♥ Clues pile.",
+            "nextTable": "/little-town/core/random-tables/item"
         }
     ]
 }

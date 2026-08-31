@@ -5,41 +5,50 @@
     "entries": [
         {
             "roll": 2,
-            "result": "Draw a Danger card."
+            "result": "Draw a Danger card.",
+            "nextTable": "/little-town/eldritch-town/deck/dangers"
         },
         {
             "roll": 3,
-            "result": "An unwanted and disturbing truth is revealed. Roll an Action+Theme pair to find out what it was, and prepare for an “Unnerving Revelation”."
+            "result": "An unwanted and disturbing truth is revealed. Roll an Action+Theme pair to find out what it was, and prepare for an “Unnerving Revelation”.",
+            "nextTable": "/little-town/eldritch-town/random-tables/theme"
         },
         {
             "min": 4,
             "max": 5,
-            "result": "A bad thing happens. Roll an Action+Theme pair."
+            "result": "A bad thing happens. Roll an Action+Theme pair.",
+            "nextTable": "/little-town/eldritch-town/random-tables/theme"
         },
         {
             "roll": 6,
-            "result": "Draw an Anomaly card."
+            "result": "Draw an Anomaly card.",
+            "nextTable": "/little-town/eldritch-town/deck/anomalies"
         },
         {
             "roll": 7,
-            "result": "A Neutral NPC is introduced."
+            "result": "A Neutral NPC is introduced.",
+            "nextTable": "/little-town/eldritch-town/random-tables/npc-archetype"
         },
         {
             "roll": 8,
-            "result": "Draw a Single Event card."
+            "result": "Draw a Single Event card.",
+            "nextTable": "/little-town/eldritch-town/deck/single-events"
         },
         {
             "min": 9,
             "max": 10,
-            "result": "A neutral thing happens. Roll an Action+Theme pair."
+            "result": "A neutral thing happens. Roll an Action+Theme pair.",
+            "nextTable": "/little-town/eldritch-town/random-tables/theme"
         },
         {
             "roll": 11,
-            "result": "You remember dreaming with a creature of cosmic proportions. Roll a Cosmic Entity, and then “Confront the Incomprehensible”."
+            "result": "You remember dreaming with a creature of cosmic proportions. Roll a Cosmic Entity, and then “Confront the Incomprehensible”.",
+            "nextTable": "/little-town/eldritch-town/random-tables/cosmic-entity"
         },
         {
             "roll": 12,
-            "result": "A good thing happens. Roll an Action+Theme pair."
+            "result": "A good thing happens. Roll an Action+Theme pair.",
+            "nextTable": "/little-town/eldritch-town/random-tables/theme"
         }
     ]
 }

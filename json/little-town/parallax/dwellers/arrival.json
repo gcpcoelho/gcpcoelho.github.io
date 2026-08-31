@@ -1,0 +1,21 @@
+{
+    "label": "How do they enter the Scene?",
+    "type": "dice",
+    "dice": "1d6",
+    "entries": [
+        {
+            "min": 1,
+            "max": 2,
+            "result": "Walking into the Location"
+        },
+        {
+            "min": 3,
+            "max": 5,
+            "result": "Materializing / Fading into view"
+        },
+        {
+            "roll": 6,
+            "result": "They were already there"
+        }
+    ]
+}

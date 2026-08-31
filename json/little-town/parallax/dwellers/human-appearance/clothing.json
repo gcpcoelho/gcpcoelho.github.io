@@ -1,0 +1,21 @@
+{
+    "label": "Clothing",
+    "type": "dice",
+    "dice": "1d6",
+    "entries": [
+        {
+            "min": 1,
+            "max": 2,
+            "result": "Formal or work clothes"
+        },
+        {
+            "min": 3,
+            "max": 5,
+            "result": "Everyday clothes"
+        },
+        {
+            "roll": 6,
+            "result": "Outdated clothes"
+        }
+    ]
+}

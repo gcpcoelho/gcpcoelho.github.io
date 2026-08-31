@@ -6,16 +6,19 @@
     "entries": [
         {
             "max": 7,
-            "result": "Roll on the Random Event table."
+            "result": "Roll on the Random Event table.",
+            "nextTable": "/little-town/eldritch-town/random-event"
         },
         {
             "min": 8,
             "max": 10,
-            "result": "Roll on the Investigation Progress table."
+            "result": "Roll on the Investigation Progress table.",
+            "nextTable": "/little-town/eldritch-town/investigation-progress"
         },
         {
             "min": 11,
-            "result": "Draw a card from the ♠ Dangers pile."
+            "result": "Draw a card from the ♠ Dangers pile.",
+            "nextTable": "/little-town/eldritch-town/deck/dangers"
         }
     ]
 }

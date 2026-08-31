@@ -5,24 +5,24 @@
     "entries": [
         {
             "roll": 1,
-            "result": "Yog-Sothoth; Size: Immeasurable; Penalty: -12; Effect: 8"
+            "result": "Yog-Sothoth\n\tSize: Immeasurable\n\tPenalty: -12\n\tEffect: 8"
         },
         {
             "roll": 2,
-            "result": "Hastur; Size: Immeasurable; Penalty: -12; Effect: 8"
+            "result": "Hastur\n\tSize: Immeasurable\n\tPenalty: -12\n\tEffect: 8"
         },
         {
             "min": 3,
             "max": 4,
-            "result": "Nyarlathotep; Size: Immeasurable; Penalty: -12; Effect: 8"
+            "result": "Nyarlathotep\n\tSize: Immeasurable\n\tPenalty: -12\n\tEffect: 8"
         },
         {
             "roll": 5,
-            "result": "Cthulhu; Size: Immeasurable; Penalty: -12; Effect: 8"
+            "result": "Cthulhu\n\tSize: Immeasurable\n\tPenalty: -12\n\tEffect: 8"
         },
         {
             "roll": 6,
-            "result": "Shub-Niggurath; Size: Immeasurable; Penalty: -12; Effect: 8"
+            "result": "Shub-Niggurath\n\tSize: Immeasurable\n\tPenalty: -12\n\tEffect: 8"
         }
     ]
 }

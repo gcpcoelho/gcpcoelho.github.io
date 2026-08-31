@@ -1,0 +1,188 @@
+{
+    "label": "Location",
+    "type": "dice",
+    "dice": "d66",
+    "info": "A Directory of Key Locations",
+    "entries": [
+        {
+            "row": 1,
+            "col": 1,
+            "result": "ABANDONED FACTORY\n\tLocated on the outskirts of town, the abandoned typewriter factory stands as a skeletal relic of a forgotten industry. Covered by faded graffiti and overgrown vegetation, its silent assembly lines and deserted halls of crumbling brick walls now house clandestine underground parties and gatherings."
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "result": "ABANDONED SCHOOL\n\tClosed after the fire and now abandoned, the former Little Town High School was once the educational center of the town. Nowadays, its charred walls and broken windows radiate an eerie ambiance that attracts daring teenagers seeking thrills."
+        },
+        {
+            "row": 1,
+            "col": 3,
+            "result": "AMPHITHEATER\n\tNestled by the flowing river, the Amphitheater is said to have been built by volunteers who aimed to bring art and music to the scenic riverbank, and provide a serene backdrop to celebrate the town’s cultural richness. However, rumors suggest that it was constructed to host pagan celebrations."
+        },
+        {
+            "row": 1,
+            "col": 4,
+            "result": "ANTIQUE TRAM DEPOT\n\tSituated in the historic district, the Antique Tram Depot is a charming time capsule, featuring meticulously preserved tram carriages that highlight the evolution of public transport and serve as a key resource for understanding the town’s development and the historical prominence of its rails."
+        },
+        {
+            "row": 1,
+            "col": 5,
+            "result": "ARTISANS MARKET\n\tThe Artisans Market finds its home within a repurposed historic warehouse nestled at the heart of the town. With a weathered brick facade and large, arched windows, the building exudes character and charm. The interior is a blend of exposed beams, polished concrete floors, and carefully curated wooden stalls that showcase the diverse array of local artisanal creations, preserving the industrial heritage of the building while providing a space for contemporary expression."
+        },
+        {
+            "row": 1,
+            "col": 6,
+            "result": "BANK\n\tDominating the town center, the historic bank is an impressive architectural presence that reflects both grandeur and historical significance. Its interior, characterized by a spacious hall with stately marble columns that reach towards high ceilings, echoes the opulence of its 19th century origins."
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "result": "BROTHEL / CASINO\n\tSurrounded by tall pines and tucked away from the town’s bustle, the Sapphire Lounge — a secretive brothel and illicit casino — exudes an air of exclusivity, inviting patrons to indulge in entertainment far removed from the everyday, all while maintaining an aura of discretion in its secluded setting. The building itself is an unassuming structure, designed with subtle luxury that belies its outward appearance."
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "result": "CIRCLE OF STONES\n\tDeep in the heart of the woods lies the Circle of Stones, a mysterious place avoided by locals who believe in its rumored connection to a parallel dimension. The desolate clearing harbors twelve ominous monoliths seemingly untouched by time, and the site’s dark reputation is fueled by tales of disappearances, perpetuating a sense of foreboding and an aura of dread."
+        },
+        {
+            "row": 2,
+            "col": 3,
+            "result": "CITY HALL\n\tWith its majestic clock tower overlooking the  Main Square, the City Hall is an elegant structure of classic architecture.  Constructed in the early 20th century, it serves as the administrative center for the town, hosting civic events and government functions."
+        },
+        {
+            "row": 2,
+            "col": 4,
+            "result": "COFFEESHOP\n\tInstalled in a historic house, the Café Armadillo beckons with its warm and rustic wooden façade. The interior, adorned with repurposed furniture and decor, all meticulously hand picked, creates a unique and welcoming atmosphere where the aroma of freshly ground coffee and artisanal treats mingles with the scent of books from its carefully curated selection."
+        },
+        {
+            "row": 2,
+            "col": 5,
+            "result": "DEPARTMENT STORE\n\tTowering over the Main Square, the Holloway’s Department Store stands as the main commercial powerhouse in town since the 1920s. The building, with its grand presence and large windows, is strategically positioned to command attention. Its interior provide a refined backdrop for shoppers, with multiple floors laid out to guide patrons through a curated journey of diverse sections, from high-end fashion to homeware and gadgets."
+        },
+        {
+            "row": 2,
+            "col": 6,
+            "result": "DINER\n\tLocated at the corner of West and Main Streets, the Utopia Diner is more than a place to satisfy hunger. The classic American diner aesthetic welcome patrons to a warm and inviting atmosphere, where Betty's famous pancakes reigns supreme. Word around town hints at a secret menu known only to Betty's trusted friends; however, when asked, she deftly changes the subject with her customary sympathy."
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "result": "FISHERMEN’S WHARF MARKET\n\tNestled along the Riverfront Boardwalk, the Fishermen's Wharf Market is a humble fish market, where the catch of the day mingles with the lively chatter of fishermen. The sturdy structure houses wooden stalls showcasing the day’s fresh catch, with some reserved for local artisans selling handmade crafts inspired by nautical themes like those found decorating the market."
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "result": "FIREHOUSE\n\tAt the end of Main Street stands the historic Firehouse, with its red brick façade, large bay doors, and a polished brass pole. Crowned by a weathered bell tower, the building not only houses vintage fire engines — still operational and ready for action — but also a treasure trove of firefighting memorabilia, transforming the Firehouse into a living museum."
+        },
+        {
+            "row": 3,
+            "col": 3,
+            "result": "GROCERY STORE\n\tAn odd gem on Main Street, the Greene’s Emporium is a modest yet essential stop for residents. Its friendly atmosphere makes it a reliable source for daily necessities, serving the community for generations. Legend has it that a hidden passage within the mid-century building leads to a deactivated underground speakeasy."
+        },
+        {
+            "row": 3,
+            "col": 4,
+            "result": "HOTEL\n\tSituated on the riverbanks, the Holloway Riverside Hotel stands as a testament to the luxury and elegance of the 1970s. With its sleek and straightforward silhouette, the hotel features spacious and airy interiors designed to create a welcoming atmosphere. Given its location overlooking the river, the building also incorporates balconies and terraces that connect guests with the natural surroundings."
+        },
+        {
+            "row": 3,
+            "col": 5,
+            "result": "HOSPITAL\n\tSurrounded by exquisite gardens, the St. Luke Memorial Hospital sits at the edge of town. Constructed in the mid-20th century in response to a devastating health crisis, it serves as a crucial hub for health and care in the region. Despite persistent rumors of a hidden wing reserved for mysterious cases, the staff vehemently denies such claims."
+        },
+        {
+            "row": 3,
+            "col": 6,
+            "result": "HUNTING LODGE\n\tDeep in the woods, the Hunting Lodge is a rustic retreat, surrounded by dense vegetation and echoing with the occasional call of wildlife. Its log cabin architecture and taxidermy-adorned walls create a haven for hunters and outdoor enthusiasts."
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "result": "MAIN SQUARE\n\tThe heart of Little Town, the Main Square is a picturesque site with cobblestone paths and vintage lamp posts that exude a classic charm. Surrounded by quaint shops and featuring a central fountain, the square hosts community events and seasonal fairs, with the annual Winter Wonderland Festival being its most prominent one."
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "result": "MEMORY CENTER\n\tTucked away on a quiet street, the Little Town Memory Center is an unassuming building that houses interactive exhibits and an extensive collection of photographs and carefully preserved artifacts curated to capture and preserve the memories of the town and its residents."
+        },
+        {
+            "row": 4,
+            "col": 3,
+            "result": "OBSERVATORY\n\tPerched on a hill overlooking the town, the Talbot Observatory was erected in the wake of the 20th century by Clarence Talbot. Its purpose was singular: to witness the celestial spectacle of Halley’s Comet crossing the sky by 1910. Over the years, very few citizens were granted access to its interior, and whispers circulate through the town about arcane observations and forbidden studies conducted within its domed confines. Following the unexplained disappearance of Eugene Talbot five years ago, the observatory now lies silent and abandoned."
+        },
+        {
+            "row": 4,
+            "col": 4,
+            "result": "OLD WAREHOUSES\n\tAlthough built during the same period as the warehouse that now shelters the Artisans Market, the old warehouses by the riverbanks remained undiscovered by the community. Abandoned for decades, they now harbor clandestine activities behind their faded red brick facades and rusted iron doors."
+        },
+        {
+            "row": 4,
+            "col": 5,
+            "result": "PETROGLYPHS CAVE\n\tConcealed within the mountains surrounding the town, the Petroglyphs Cave is said to have been discovered in the early 1920s, though the exact date remains shrouded in ambiguity. The petroglyphs that give the cave its name depict what some believe to be scenes of life, but rumors circulate that the symbols etched on the walls form, in fact, a cryptic guide to unlock a portal between dimensions, suggesting a direct connection with the Circle of Stones."
+        },
+        {
+            "row": 4,
+            "col": 6,
+            "result": "POLICE DEPARTMENT\n\tLocated on the outskirts of the Main Square, the Police Department stands as a symbol of order and authority in this seemingly tranquil community. The sturdy building, with its austere façade of gray stone and rectangular windows, houses spacious offices, meeting rooms, a secure evidence room, and holding cells, providing the necessary infrastructure for the officers who serve the town."
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "result": "RESTAURANT\n\tWith its façade adorned with a warm terracotta tone and climbing ivy, the Romano’s was established in 1943 and is known for its exquisite menu, fine wines, and discreet atmosphere that caters to those seeking a touch of luxury. Despite the speculations about being a front for Mafia activities and money laundering, the Michelinstarred restaurant remains a gem in the Main Square region."
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "result": "RESIDENTIAL DISTRICT\n\tThe Residential District sprawls along the southern outskirts of the Main Square, featuring a tapestry of charming streets adorned with a mix of Colonial and Victorianstyle houses, each surrounded by meticulously manicured gardens."
+        },
+        {
+            "row": 5,
+            "col": 3,
+            "result": "RIVERFRONT BOARDWALK\n\tStretching along the riverbanks, the Riverfront Boardwalk stands as a rustic promenade, its wooden pathway lined with lamps that cast a warm glow as the sun dips below the horizon. Benches strategically placed alongside the pathway invite visitors to linger, offering picturesque views of the river, while the rhythmic sound of lapping water sets a tranquil mood. Beyond its scenic charm, the boardwalk transforms into a vibrant hub with the bustling Fishermen’s Wharf Market."
+        },
+        {
+            "row": 5,
+            "col": 4,
+            "result": "ROADHOUSE PUB\n\tFeaturing a dimly lit room adorned with vintage décor and a grand polished mahogany bar, the Roadhouse Pub is a local watering hole on the outskirts of town. Legends suggest that it has existed for generations, evolving from a speakeasy during Prohibition to its current incarnation."
+        },
+        {
+            "row": 5,
+            "col": 5,
+            "result": "SAWMILL\n\tSituated at the edge of town, the McAllister’s Sawmill overlooks the river, its towering smokestack visible from afar. The sawmill has a rich history intertwined with the town’s development, and its reputation stands as a testament to the McAllister family’s dedication. However, persistent rumors suggest a connection to illegal deforestation practices and clandestine dealings that may involve criminal elements."
+        },
+        {
+            "row": 5,
+            "col": 6,
+            "result": "SECLUDED BOOKSTORE\n\tInstalled in a quaint cottage that once belonged to Eleanor Fitzgerald, a writer known for her penchant for solitude, the Reading Retreat stands as the town’s cherished bookstore. Adorned with climbing vines and a weathered slate roof, the building houses shelves that bend under the weight of its eclectic collection. The air within carries the scent of paper, and patrons can lose themselves in a carefully curated selection of books that span genres and eras."
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "result": "SCHOOL\n\tNestled in the heart of the Residential District, the Little Town High School features a classic architecture with a mix of red brick, white arched windows and a clock tower. The expansive campus includes a mix of modern and historic buildings, blending tradition with the requirements of contemporary education."
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "result": "TRAILER PARK\n\tTucked away on the outskirts of town, the Trailer Park serves as a residence for low-income families and individuals facing economic challenges. The diverse array of mobile homes, ranging from vintage models with floral curtains to more modern designs, is arranged in a semicircle, creating a communal courtyard at the center. A picket fence surrounds the park, providing a sense of unity and defining its boundaries."
+        },
+        {
+            "row": 6,
+            "col": 3,
+            "result": "TUNNELS\n\tDiscovered only in the 1970s, the Tunnels sprawl from under the Main Square to various historic buildings around town, including the deactivated train station. The origin of these tunnels is a subject of much debate among residents: some believe they were initially created for practical purposes, such as transportation or storage, while others think they may be used by a clandestine society for secret meetings or rituals."
+        },
+        {
+            "row": 6,
+            "col": 4,
+            "result": "VINTAGE ARCADE\n\tHoused in a converted 1920s cinema, the Vintage Arcade retains its Art Deco façade, with bold neon signage and geometric patterns adorning its entrance. Inside, rows of arcade cabinets and pinball machines dominate the space, with classic games like Donkey Kong and Pac-Man lining the walls among modern titles like Street Fighter II and Mortal Kombat."
+        },
+        {
+            "row": 6,
+            "col": 5,
+            "result": "CEMETERY\n\tSituated on the northern edge of town, the Little Town Cemetery is a solemn sanctuary surrounded by ancient oaks and weeping willows. A central mausoleum stands tall, its stone façade weathered by time, and the tombstones range from simple crosses to elaborate sculptures, making it a perfect location for the zombie movie ‘Dawn of the Revenant’."
+        },
+        {
+            "row": 6,
+            "col": 6,
+            "result": "OUTSKIRTS\n\tThe Outskirts sprawl beyond the town limits, transitioning from the familiar urban landscape to the untamed wilderness. In contrast to the well maintained structures within the town, the Outskirts boast abandoned cabins, dilapidated barns, and forgotten trails. Legends speak of eerie sightings and strange footprints, but no one has been able to substantiate these claims."
+        }
+    ]
+}

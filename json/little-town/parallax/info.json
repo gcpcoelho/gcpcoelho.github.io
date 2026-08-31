@@ -1,0 +1,93 @@
+{
+    "files": [
+        {
+            "name": "dwellers",
+            "title": "Dwellers of the Parallel Dimension",
+            "order": 2,
+            "files": [
+                {
+                    "name": "human-appearance",
+                    "title": "Human Appearance",
+                    "order": 7,
+                    "files": [
+                        {
+                            "name": "height.json",
+                            "title": "Height",
+                            "order": 1
+                        },
+                        {
+                            "name": "build.json",
+                            "title": "Build",
+                            "order": 2
+                        },
+                        {
+                            "name": "apparent-gender.json",
+                            "title": "Apparent Gender",
+                            "order": 3
+                        },
+                        {
+                            "name": "apparent-age.json",
+                            "title": "Apparent Age",
+                            "order": 4
+                        },
+                        {
+                            "name": "clothing.json",
+                            "title": "Clothing",
+                            "order": 5
+                        },
+                        {
+                            "name": "hair.json",
+                            "title": "Hair",
+                            "order": 6
+                        },
+                        {
+                            "name": "presentation.json",
+                            "title": "Presentation",
+                            "order": 7
+                        },
+                        {
+                            "name": "distinguishing-feature.json",
+                            "title": "Distinguishing Feature",
+                            "order": 8
+                        }
+                    ]
+                },
+                {
+                    "name": "arrival.json",
+                    "title": "How do they enter the Scene?",
+                    "order": 1
+                },
+                {
+                    "name": "form.json",
+                    "title": "Form",
+                    "order": 2
+                },
+                {
+                    "name": "non-human-form.json",
+                    "title": "Non-Human Form",
+                    "order": 3
+                },
+                {
+                    "name": "behavior.json",
+                    "title": "Behavior",
+                    "order": 4
+                },
+                {
+                    "name": "manner-of-speaking.json",
+                    "title": "Manner of Speaking",
+                    "order": 5
+                },
+                {
+                    "name": "departure.json",
+                    "title": "How do they leave the Scene?",
+                    "order": 6
+                }
+            ]
+        },
+        {
+            "name": "anomalies.json",
+            "title": "Anomalies",
+            "order": 1
+        }
+    ]
+}

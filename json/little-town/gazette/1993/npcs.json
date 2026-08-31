@@ -1,0 +1,188 @@
+{
+    "label": "NPC",
+    "type": "dice",
+    "dice": "d66",
+    "info": "A Glimpse Into Some Interesting Residents",
+    "entries": [
+        {
+            "row": 1,
+            "col": 1,
+            "result": "ABIGAIL MILLS\n\tAbigail, a grieving parent, lost her child under mysterious circumstances. By attending support groups and sharing her story in the hope of helping others who have faced similar losses, she became an unofficial advocate for other families facing similar tragedies."
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "result": "ADRIAN LEE\n\tAdrian, often seen with a magnifying glass in hand, is the town’s self-proclaimed detective. In spite of his amateur status, his enthusiasm and knack for putting pieces together have earned him a few nods of approval from local law enforcement."
+        },
+        {
+            "row": 1,
+            "col": 3,
+            "result": "ALICE MORRIS\n\tAir Force Captain Morris has an enigmatic aura that surrounds her. Some say she’s here for a routine assignment, while others believe she’s investigating peculiar occurrences in the woods. Residents often catch glimpses of her wandering around the outskirts, her piercing gaze scanning the skies."
+        },
+        {
+            "row": 1,
+            "col": 4,
+            "result": "BETTY RICHARDS\n\tBetty, the culinary maestro behind the counter at Utopia Diner, is more than its proprietor; with her warm smile and comforting presence, she is the heart and soul of the place. There’s a sense of nostalgia in every bite of her pancakes, and regulars praise her for turning ordinary meals into unforgettable experiences."
+        },
+        {
+            "row": 1,
+            "col": 5,
+            "result": "BRANDON TURNER\n\tRecognized by the moniker ‘Bulldozer’, Brandon is an imposing presence that looms over the high school halls,  evoking a mixture of fear and reluctant respect from his peers. A fierce defender of a perceived hierarchy, Bulldozer has solidified his reputation as the quintessential high school bully."
+        },
+        {
+            "row": 1,
+            "col": 6,
+            "result": "CASSIDY MONROE\n\tCassidy ‘Cash’ Monroe operates in the town’s dimly lit corners, peddling illegal substances. Despite his clandestine dealings, he claims to have a personal code that prevents him from getting too entangled in the darker side of the trade. Some say he’s a necessary evil, while others worry about the influence he might have on the town’s vulnerable population."
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "result": "CELIO BIANCHI\n\tCelio, a seasoned waiter with a quick wit and a knack for memorizing orders, is a fixture at Romano’s. His easy going nature and friendly banter with customers sprinkle a dash of humor into every interaction."
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "result": "ELEANOR THOMPSON\n\tWith a soft-spoken demeanor, Eleanor serves as the receptionist at St. Luke Memorial Hospital. Patients and visitors often find solace in her words, and she seems to have an uncanny empathy that goes beyond mere professional courtesy."
+        },
+        {
+            "row": 2,
+            "col": 3,
+            "result": "ELARA SWIFTHEART\n\tElara, with her menagerie of animal companions, is a familiar sight in town. Locals bring her injured wildlife, and she’s often found in the woods, talking to birds and calming distressed raccoons. The townsfolk marvel at the seemingly supernatural bond she shares with her animal companions, with some even swearing her pets understand every word she says."
+        },
+        {
+            "row": 2,
+            "col": 4,
+            "result": "EMERSON HAYES\n\tA tenacious investigative journalist, Emerson moved to town to accompany his husband, the painter Julian Blackwood. Armed with a notepad and a camera, he delves into the town’s intrigues, determined to expose the facts. Some see him as a fearless truth seeker, while others wonder if his pursuit might uncover secrets best left undisturbed."
+        },
+        {
+            "row": 2,
+            "col": 5,
+            "result": "EMMA SINCLAIR\n\tWith a penchant for the dramatic, Emma runs the front desk at Holloway Riverside Hotel, welcoming guests with an air of theatricality. Some believe she possesses an otherworldly ability to predict guests’ needs, while others wonder if her unusual aura is simply a role she is playing. Either way, the lobby is a stage where the flamboyant Emma orchestrates each guest’s entrance with finesse."
+        },
+        {
+            "row": 2,
+            "col": 6,
+            "result": "EVELYN WILLIAMS\n\tAn enthusiastic educator, Ms. Williams has a way of making history come alive in her classroom. Students adore her engaging lectures, but whispers about her unconventional teaching methods and the unanswered questions about her own background are starting to unsettle a group of concerned parents."
+        },
+        {
+            "row": 3,
+            "col": 1,
+            "result": "FELIX WELSH\n\tFondly nicknamed ‘Lucky’ by his peers, Felix stands as the charismatic maestro of chance at Sapphire Lounge. His nimble fingers shuffle cards with an almost hypnotic precision, and he’s known to share a mischievous smile when a patron strikes it big. Rumors circulate about his gambling past, but Felix remains tight-lipped, focused on dealing a fair hand."
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "result": "FIONA CALDWELL\n\tFiona, a charismatic advocate for the town, assumed the role of the Tourism Board Representative. Her mission is to attract visitors to the town, emphasizing its unique charm and the allure of its mysterious atmosphere. Her brochures highlight the town’s landmarks, both historical and supposedly supernatural, inviting outsiders to become part of the enigma."
+        },
+        {
+            "row": 3,
+            "col": 3,
+            "result": "FRANKLIN MCALLISTER\n\tFranklin McAllister, with his impeccable suits and discreet manners, oversees the day-to-day operations of the town’s historic sawmill. Despite his family’s long standing connection to the lumber industry, Franklin takes no pride in it, and rumors circulate about his desire to set the sawmill on fire to claim insurance money and leave the country."
+        },
+        {
+            "row": 3,
+            "col": 4,
+            "result": "GLORIA RODRIGUEZ\n\tGloria, a free spirit with an entrepreneurship flair, is the proud owner of Gloria's  Curiosity Shop, a quirky store brimming with an eclectic mix of items crafted to uplift the spirits of those who enter. Whether selling handmade crafts or offering tarot readings, she’s a beacon of positivity in the town."
+        },
+        {
+            "row": 3,
+            "col": 5,
+            "result": "HAROLD ‘WATCHER’ SIMMONS\n\t‘Watcher’, as the townsfolk got used to call Harold Simmons, is an eccentric recluse who spends his days compiling an ever growing collection of conspiracy theories. His ramblings about government cover-ups and extraterrestrial visitors are simultaneously dismissed and entertained. Everyone sees him as the town’s resident eccentric, but his wild tales leave a lingering question: what if there’s a grain of truth in his paranoia?"
+        },
+        {
+            "row": 3,
+            "col": 6,
+            "result": "JASPER WAINWRIGHT\n\tJasper’s antics inject a dose of whimsy into the town. Whether performing impromptu magic tricks or hosting spontaneous street carnivals, he is a living embodiment of the unexpected. Locals are never quite sure what to make of Jasper, but his presence ensures that there’s always an element of surprise waiting around the next corner."
+        },
+        {
+            "row": 4,
+            "col": 1,
+            "result": "JOHNNY O’CONNOR\n\tJohnny walks the fine line between redemption and temptation. Despite efforts to reinvent himself, it is said that he continues to operate in the clandestine realm beneath the town’s surface, and is an active player in the latest crimes under investigation by the Police Department."
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "result": "JULIAN BLACKWOOD\n\tA reclusive painter, Julian found solace in town, where the serene landscapes and mysterious atmosphere inspire his paintings. His large canvases feature expansive, ethereal color fields that evoke the quietude of the natural surroundings, interwoven with dreamlike depictions of the town’s folklore."
+        },
+        {
+            "row": 4,
+            "col": 3,
+            "result": "LILY BENNETT\n\tLily is a nosy teenager who’s used to entangle herself and her friends in the town’s mysteries. Her curiosity often serves as a catalyst for uncovering truths that others might prefer to keep buried."
+        },
+        {
+            "row": 4,
+            "col": 4,
+            "result": "LUNA HARPER\n\tLuna wears her commitment to the environment like a badge of honor. Whether engaging in town meetings or leading nature walks, she tirelessly promotes eco-friendly initiatives. Some view her as a beacon of change, while others question the true extent of her influence."
+        },
+        {
+            "row": 4,
+            "col": 5,
+            "result": "MACK ‘RUMBLE’ REYNOLDS\n\tMack, a truck driver with a demeanor as rough as the backroads he navigates, thunders into town atop his massive rig. Raised beyond the border, Mack’s origins are unknown, and the rumors surrounding him suggest a connection to criminal endeavors like drug trafficking and smuggling operations.."
+        },
+        {
+            "row": 4,
+            "col": 6,
+            "result": "MALCOLM MURPHY\n\tAffectionately known as ‘Doc’, Dr. Murphy is the head doctor at St. Luke Memorial Hospital. His office is a safe space where patients not only find physical healing, but also a sympathetic ear for the hidden pains of their hearts, making Doc’s presence a comforting constant in town."
+        },
+        {
+            "row": 5,
+            "col": 1,
+            "result": "MARGO WHITMAN\n\tMargo, a lifelong resident, has dedicated her life to preserving the town’s history. Her home serves as a mini museum filled with relics and photographs, and her storytelling has the power to transport listeners to eras long gone, making her a bridge between the town’s roots and its evolving identity."
+        },
+        {
+            "row": 5,
+            "col": 2,
+            "result": "MAXWELL CARTER\n\tMaxwell, a charismatic voice on the local radio waves, hosts a late-night show that delves into the supernatural and mysterious. Whether recounting local legends or interviewing residents about their encounters with the unexplained, he weaves a narrative that blurs the lines between reality and fantasy."
+        },
+        {
+            "row": 5,
+            "col": 3,
+            "result": "NATHAN MITCHELL\n\tOfficer Mitchell, a dedicated member of the local police force, takes his duty to protect the town seriously. Residents appreciate his steady presence, although some wonder if he knows more about the town’s mysteries than he lets on."
+        },
+        {
+            "row": 5,
+            "col": 4,
+            "result": "OLIVIA FLETCHER\n\tOlivia is a talented musician whose songs are characterized by emotional depth, poetic lyrics, and haunting vocals. Her songs reflect a rich and diverse musical background that resonates with audiences drawn to introspective and evocative compositions."
+        },
+        {
+            "row": 5,
+            "col": 5,
+            "result": "PENNY EVERGREEN\n\tPenny serves as the fashion consultant for Holloway’s Department Store. Locals flock to Penny for style advice, as her refined demeanor and urban flair stand out against the rustic backdrop. While she dreams of leaving the town to become a famous stylist, her immediate priority is taking care of her sick father."
+        },
+        {
+            "row": 5,
+            "col": 6,
+            "result": "REGINALD CALDWELL\n\tReggie, bespectacled and always elegantly dressed, oversees the bank with a keen eye for detail, though some suggest that he is involved in fraudulent financial practices, and may have connections to the Mafia."
+        },
+        {
+            "row": 6,
+            "col": 1,
+            "result": "RUBY ‘SILKY’ DELACROIX\n\tKnown as ‘Silky’ among the Sapphire Lounge’s regulars, Ruby possesses a mysterious allure that keeps customers returning. Behind the velvet curtains, she navigates the delicate art of conversation with finesse, listening more than she speaks. Some wonder if she has secrets of her own or if her enigmatic persona is merely part of the performance."
+        },
+        {
+            "row": 6,
+            "col": 2,
+            "result": "SUSAN DAVIS\n\tSusan Davis, the proprietor of Reading Retreat, infuses the cozy bookstore with an infectious passion for literature. With her wide-eyed enthusiasm and a charm that dances on the border of eccentricity, Susan has the ability to make even the most mundane book seem magical. Customers find themselves drawn not only to the shelves but also to her eclectic suggestions."
+        },
+        {
+            "row": 6,
+            "col": 3,
+            "result": "THEODORE HIGGINS\n\tTheodore, a meticulous archivist, oversees the town’s archives, preserving records that span centuries. His commitment to the town’s history makes him a living repository of knowledge, with an uncanny ability to recall even the minutest details."
+        },
+        {
+            "row": 6,
+            "col": 4,
+            "result": "VERONICA HOLLOWAY\n\tA shrewd business tycoon with a fortune amassed from various ventures, Veronica controls the town’s economic landscape. Her influence extends beyond her wealth, as she holds sway over local politics and decisions that shape the community’s future."
+        },
+        {
+            "row": 6,
+            "col": 5,
+            "result": "VICTORIA HARPER\n\tDr. Harper, a renowned psychiatrist, delves into the recesses of the human psyche with unparalleled insight. Whether counseling troubled souls or investigating the peculiar dreams that haunt the townsfolk, her presence is both reassuring and unsettling. Some see her as a beacon of clarity, while others question the fine line between therapy and the paranormal in Harper’s practice."
+        },
+        {
+            "row": 6,
+            "col": 6,
+            "result": "YELENA VORONOVA\n\tYelena, a mysterious figure with an accent that hints at a distant homeland, tends the bar at the Roadhouse Pub. Patrons share their woes over glasses of bourbon, unaware that she absorbs their stories like a sponge. Some see her as a trustworthy friend, while others wonder if her role extends beyond mixing drinks."
+        }
+    ]
+}

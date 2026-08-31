@@ -1,0 +1,21 @@
+{
+    "label": "Presentation",
+    "type": "dice",
+    "dice": "1d6",
+    "entries": [
+        {
+            "roll": 1,
+            "result": "Disheveled"
+        },
+        {
+            "min": 2,
+            "max": 4,
+            "result": "Nothing unusual"
+        },
+        {
+            "min": 5,
+            "max": 6,
+            "result": "Impeccable"
+        }
+    ]
+}

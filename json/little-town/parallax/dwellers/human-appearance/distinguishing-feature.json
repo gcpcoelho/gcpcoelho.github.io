@@ -1,29 +1,28 @@
 {
-    "label": "Motivation",
+    "label": "Distinguishing Feature",
     "type": "dice",
     "dice": "1d6",
     "entries": [
         {
             "roll": 1,
-            "result": "Money"
+            "result": "Floats as if suspended by an invisible string"
         },
         {
             "roll": 2,
-            "result": "Justice"
+            "result": "Face concealed behind a mask"
         },
         {
             "min": 3,
             "max": 4,
-            "result": "Roll an Action and/or a Theme",
-            "nextTable": "/little-town/core/questions/open-questions/theme"
+            "result": "None"
         },
         {
             "roll": 5,
-            "result": "Vengeance"
+            "result": "Has no eyes"
         },
         {
             "roll": 6,
-            "result": "Duty"
+            "result": "Is identical to someone who is already dead"
         }
     ]
 }

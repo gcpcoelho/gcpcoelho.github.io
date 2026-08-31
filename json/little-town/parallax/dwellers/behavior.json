@@ -1,0 +1,29 @@
+{
+  "label": "Behavior",
+  "type": "dice",
+  "dice": "1d6",
+  "entries": [
+    {
+      "roll": 1,
+      "result": "Dances without music"
+    },
+    {
+      "roll": 2,
+      "result": "Sings a beautiful familiar song"
+    },
+    {
+      "min": 3,
+      "max": 4,
+      "result": "Speaks to you. Roll an Action+Theme pair",
+      "nextTable": "/little-town/core/questions/open-questions/theme"
+    },
+    {
+      "roll": 5,
+      "result": "Smiles menacingly. Roll again"
+    },
+    {
+      "roll": 6,
+      "result": "Attacks you without warning. Mark one Wound and roll Run Away From a Fight"
+    }
+  ]
+}

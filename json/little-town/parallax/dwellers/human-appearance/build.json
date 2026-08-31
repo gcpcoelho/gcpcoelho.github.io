@@ -1,0 +1,25 @@
+{
+    "label": "Build",
+    "type": "dice",
+    "dice": "1d6",
+    "entries": [
+        {
+            "roll": 1,
+            "result": "Thin"
+        },
+        {
+            "min": 2,
+            "max": 3,
+            "result": "Average"
+        },
+        {
+            "min": 4,
+            "max": 5,
+            "result": "Heavyset"
+        },
+        {
+            "roll": 6,
+            "result": "Muscular"
+        }
+    ]
+}

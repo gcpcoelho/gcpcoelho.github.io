@@ -1,0 +1,26 @@
+{
+    "files": [
+        {
+            "name": "1993",
+            "title": "Friday, February 24th 1993",
+            "order": 1,
+            "files": [
+                {
+                    "name": "npcs.json",
+                    "title": "The Social Life of Little Town",
+                    "order": 1
+                },
+                {
+                    "name": "locations.json",
+                    "title": "Welcome to Little Town",
+                    "order": 2
+                }
+            ]
+        },
+        {
+            "name": "1995-local-news.json",
+            "title": "Saturday, January 21st 1995 - Local News",
+            "order": 2
+        }
+    ]
+}
